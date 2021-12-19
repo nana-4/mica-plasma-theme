@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="20">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="hint-tile-center" fill="#ff2a2a" transform="translate(32 4)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="hint-bar-size" fill="#ff2a2a" transform="translate(32 12)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="bar-inactive-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(4 4)">
+    <path d="M2 0a2 2 0 0 0-2 2h2z" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 4)">
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(12 4)">
+    <path d="M0 0v2h2a2 2 0 0 0-2-2z" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(4 8)">
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 8)">
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(12 8)">
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(4 12)">
+    <path d="M0 0a2 2 0 0 0 2 2V0z" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 12)">
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="bar-inactive-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(12 12)">
+    <path d="M0 0v2a2 2 0 0 0 2-2z" opacity=".38"/>
+  </g>
+  <g id="bar-active-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(18 4)">
+    <path d="M2 0a2 2 0 0 0-2 2h2z"/>
+  </g>
+  <g id="bar-active-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(22 4)">
+    <rect width="2" height="2"/>
+  </g>
+  <g id="bar-active-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(26 4)">
+    <path d="M0 0v2h2a2 2 0 0 0-2-2z"/>
+  </g>
+  <g id="bar-active-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(18 8)">
+    <rect width="2" height="2"/>
+  </g>
+  <g id="bar-active-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(22 8)">
+    <rect width="2" height="2"/>
+  </g>
+  <g id="bar-active-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(26 8)">
+    <rect width="2" height="2"/>
+  </g>
+  <g id="bar-active-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(18 12)">
+    <path d="M0 0a2 2 0 0 0 2 2V0z"/>
+  </g>
+  <g id="bar-active-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(22 12)">
+    <rect width="2" height="2"/>
+  </g>
+  <g id="bar-active-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(26 12)">
+    <path d="M0 0v2a2 2 0 0 0 2-2z"/>
+  </g>
+</svg>

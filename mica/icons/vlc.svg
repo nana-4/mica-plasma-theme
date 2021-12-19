@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="32">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="vlc" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="m14 4-3 9h10l-3-9zm-4 12-2 6h16l-2-6zm-6 9v3h24v-3z"/>
+  </g>
+  <g id="22-22-vlc" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m9.67 3-2 6h6.67l-2-6zM7 11l-1.33 4h10.7l-1.33-4zm-4 6v2h16v-2z"/>
+  </g>
+  <g id="16-16-vlc" fill="currentColor" class="ColorScheme-Text" transform="translate(54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="m6.67 0-2 6h6.67l-2-6zM4 8l-1.33 4h10.7l-1.33-4zm-4 6v2h16v-2z"/>
+  </g>
+</svg>

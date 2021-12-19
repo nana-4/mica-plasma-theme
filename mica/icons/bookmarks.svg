@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="32">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="bookmarks" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M8 4v24l8-4 8 4V4zm1 1h14v21.6l-7-3.56-7 3.56z"/>
+  </g>
+  <g id="22-22-bookmarks" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M16 2H6c-1.1 0-1.99.9-1.99 2L4 20l7-3 7 3V4c0-1.1-.9-2-2-2z"/>
+  </g>
+</svg>

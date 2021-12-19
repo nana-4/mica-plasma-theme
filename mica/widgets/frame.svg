@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="48">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <rect id="hint-tile-center" width="4" height="4" x="128" y="8" fill="#4e9a06"/>
+  <g id="plain-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".08"/>
+  </g>
+  <g id="plain-top" fill="currentColor" class="ColorScheme-Text" transform="translate(20 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="plain-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(32 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".08"/>
+  </g>
+  <g id="plain-left" fill="currentColor" class="ColorScheme-Text" transform="translate(8 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="plain-center" fill="currentColor" class="ColorScheme-Text" transform="translate(20 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="plain-right" fill="currentColor" class="ColorScheme-Text" transform="translate(32 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="plain-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".08"/>
+  </g>
+  <g id="plain-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(20 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="plain-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".08"/>
+  </g>
+  <rect id="plain-hint-top-margin" width="2" height="6" x="23" y="8" fill="#4e9a06"/>
+  <rect id="plain-hint-bottom-margin" width="2" height="6" x="23" y="34" fill="#4e9a06"/>
+  <rect id="plain-hint-left-margin" width="6" height="2" x="8" y="23" fill="#4e9a06"/>
+  <rect id="plain-hint-right-margin" width="6" height="2" x="34" y="23" fill="#4e9a06"/>
+  <g id="sunken-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".08"/>
+  </g>
+  <g id="sunken-top" fill="currentColor" class="ColorScheme-Text" transform="translate(60 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="sunken-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(72 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".08"/>
+  </g>
+  <g id="sunken-left" fill="currentColor" class="ColorScheme-Text" transform="translate(48 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="sunken-center" fill="currentColor" class="ColorScheme-Text" transform="translate(60 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="sunken-right" fill="currentColor" class="ColorScheme-Text" transform="translate(72 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="sunken-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".08"/>
+  </g>
+  <g id="sunken-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(60 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="sunken-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(72 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".08"/>
+  </g>
+  <rect id="sunken-hint-top-margin" width="2" height="6" x="63" y="8" fill="#4e9a06"/>
+  <rect id="sunken-hint-bottom-margin" width="2" height="6" x="63" y="34" fill="#4e9a06"/>
+  <rect id="sunken-hint-left-margin" width="6" height="2" x="48" y="23" fill="#4e9a06"/>
+  <rect id="sunken-hint-right-margin" width="6" height="2" x="74" y="23" fill="#4e9a06"/>
+  <g id="raised-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".08"/>
+  </g>
+  <g id="raised-top" fill="currentColor" class="ColorScheme-Text" transform="translate(100 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="raised-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".08"/>
+  </g>
+  <g id="raised-left" fill="currentColor" class="ColorScheme-Text" transform="translate(88 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="raised-center" fill="currentColor" class="ColorScheme-Text" transform="translate(100 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="raised-right" fill="currentColor" class="ColorScheme-Text" transform="translate(112 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="raised-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".08"/>
+  </g>
+  <g id="raised-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(100 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="raised-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".08"/>
+  </g>
+  <rect id="raised-hint-top-margin" width="2" height="6" x="103" y="8" fill="#4e9a06"/>
+  <rect id="raised-hint-bottom-margin" width="2" height="6" x="103" y="34" fill="#4e9a06"/>
+  <rect id="raised-hint-left-margin" width="6" height="2" x="88" y="23" fill="#4e9a06"/>
+  <rect id="raised-hint-right-margin" width="6" height="2" x="114" y="23" fill="#4e9a06"/>
+</svg>

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="54">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="system-log-out" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="m21 11-1.41 1.41L22.17 15h-10.2v2h10.2l-2.58 2.58L21 21l5-5zM8 9h8V7H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H8z"/>
+  </g>
+  <g id="system-lock-screen" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M22 12h-1v-2c0-2.76-2.24-5-5-5s-5 2.24-5 5v2h-1c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V14c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9h-6.2v-2c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1z"/>
+  </g>
+  <g id="system-reboot" fill="currentColor" class="ColorScheme-Text" transform="translate(64)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M16 9V6l-4 4 4 4v-3c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24l-1.42-1.42A8.014 8.014 0 0 0 8 17c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"/>
+  </g>
+  <g id="system-save-session" fill="currentColor" class="ColorScheme-Text" transform="translate(96)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M23 16v7H9v-7H7v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7zm-6 .67 2.59-2.58L21 15.5l-5 5-5-5 1.41-1.41L15 16.67V7h2z"/>
+  </g>
+  <g id="system-shutdown" fill="currentColor" class="ColorScheme-Text" transform="translate(128)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M17 7h-2v10h2zm4.83 2.17-1.42 1.42A6.92 6.92 0 0 1 23 16c0 3.87-3.13 7-7 7a6.995 6.995 0 0 1-4.42-12.42l-1.41-1.41A8.932 8.932 0 0 0 7 16a9 9 0 0 0 18 0c0-2.74-1.23-5.18-3.17-6.83z"/>
+  </g>
+  <g id="system-suspend-hibernate" fill="currentColor" class="ColorScheme-Text" transform="translate(160)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M26 15h-4.17l3.24-3.24-1.41-1.42L19 15h-2v-2l4.66-4.66-1.42-1.41L17 10.17V6h-2v4.17l-3.24-3.24-1.42 1.41L15 13v2h-2l-4.66-4.66-1.41 1.42L10.17 15H6v2h4.17l-3.24 3.24 1.41 1.42L13 17h2v2l-4.66 4.66 1.42 1.41L15 21.83V26h2v-4.17l3.24 3.24 1.42-1.41L17 19v-2h2l4.66 4.66 1.41-1.42L21.83 17H26z"/>
+  </g>
+  <g id="system-suspend" fill="currentColor" class="ColorScheme-Text" transform="translate(192)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M15.1 16.1c-2.33-4.51-.5-8.48.53-10.1-5.36.19-9.65 4.58-9.65 9.99 0 .14.02.28.02.42.62-.27 1.29-.42 2-.42 1.66 0 3.18.83 4.1 2.15a4.01 4.01 0 0 1 2.9 3.85c0 1.52-.87 2.83-2.12 3.51.98.32 2.03.5 3.11.5 3.5 0 6.58-1.8 8.37-4.52-2.36.23-6.98-.97-9.26-5.41z"/>
+    <path d="M11 20h-.18C10.4 18.84 9.3 18 8 18c-1.66 0-3 1.34-3 3s1.34 3 3 3h3c1.1 0 2-.9 2-2s-.9-2-2-2z"/>
+  </g>
+  <g id="system-switch-user" fill="currentColor" class="ColorScheme-Text" transform="translate(224)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M8 10H6v14c0 1.1.9 2 2 2h14v-2H8zm16-4H12c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 2c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm6 12H12v-1.5c0-1.99 4-3 6-3s6 1.01 6 3z"/>
+  </g>
+  <g id="system-users" fill="currentColor" class="ColorScheme-Text" transform="translate(256)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M20.7 17.1c1.37.93 2.33 2.19 2.33 3.87v3h4v-3c0-2.18-3.57-3.47-6.33-3.87z"/>
+    <circle cx="13" cy="12" r="4"/>
+    <path d="M19 16c2.21 0 4-1.79 4-4s-1.79-4-4-4c-.47 0-.91.1-1.33.24a5.98 5.98 0 0 1 0 7.52c.42.14.86.24 1.33.24zm-6 1c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z"/>
+  </g>
+  <g id="system-search" fill="currentColor" class="ColorScheme-Text" transform="translate(288)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M19.5 18h-.79l-.28-.27A6.471 6.471 0 0 0 20 13.5a6.5 6.5 0 1 0-6.5 6.5c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L24.49 23zm-6 0C11.01 18 9 15.99 9 13.5S11.01 9 13.5 9s4.5 2.01 4.5 4.5-2.01 4.5-4.5 4.5z"/>
+  </g>
+  <g id="system-user-list" fill="currentColor" class="ColorScheme-Text" transform="translate(320)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M16 16.8c1.63 0 3.07.39 4.24.9 1.08.48 1.76 1.56 1.76 2.73v1.62H10v-1.61c0-1.18.68-2.26 1.76-2.73 1.17-.52 2.61-.91 4.24-.91zm-8 .25c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm1.13 1.1c-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58A2.01 2.01 0 0 0 4 20.48v1.57h4.5v-1.61c0-.83.23-1.61.63-2.29zm14.9-1.1c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85a6.95 6.95 0 0 0-2.78-.58c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29v1.61h4.5zm-12-10.4c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3z"/>
+  </g>
+  <g id="system-user-prompt" fill="currentColor" class="ColorScheme-Text" transform="translate(352)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M15 10.8v1.5h5v-1.5zm-4 0v1.5h3v-1.5zm-6 0v1.5h5v-1.5zM4 9.05h24v5H4zm-1-1v7h26v-7zm1 10h24v5H4zm-1-1v7h26v-7zm3.5 2a1.5 1.5 0 1 0 .001 3 1.5 1.5 0 0 0-.001-3zm4 0a1.5 1.5 0 1 0 .001 3 1.5 1.5 0 0 0-.001-3zm4 0a1.5 1.5 0 1 0 .001 3 1.5 1.5 0 0 0-.001-3zm4 0a1.5 1.5 0 1 0 .001 3 1.5 1.5 0 0 0-.001-3z"/>
+  </g>
+  <g id="22-22-system-log-out" fill="currentColor" class="ColorScheme-Text" transform="translate(0 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m15 6-1.41 1.41L16.17 10H7v2h9.17l-2.58 2.58L15 16l5-5zM4 5h7V3H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h7v-2H4z"/>
+  </g>
+  <g id="22-22-system-lock-screen" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M11 2a4 4 0 0 0-4 4v2H6c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2v-8c0-1.1-.9-2-2-2h-1V6a4 4 0 0 0-4-4zm0 2a2 2 0 0 1 2 2v2H9V6a2 2 0 0 1 2-2zm0 8c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2z"/>
+  </g>
+  <g id="22-22-system-reboot" fill="currentColor" class="ColorScheme-Text" transform="translate(64 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M11 4V1L7 5l4 4V6c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24L5.34 6.34A8.014 8.014 0 0 0 3 12c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"/>
+  </g>
+  <g id="22-22-system-save-session" fill="currentColor" class="ColorScheme-Text" transform="translate(96 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18 11v7H4v-7H2v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7zm-6 .67 2.59-2.58L16 10.5l-5 5-5-5 1.41-1.41L10 11.67V2h2z"/>
+  </g>
+  <g id="22-22-system-shutdown" fill="currentColor" class="ColorScheme-Text" transform="translate(128 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M10 3v9h2V3zm6.13 1.87-1.42 1.42A6 6 0 0 1 17 11a6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 2.3-4.7L5.87 4.87A8 8 0 0 0 3 11a8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-2.87-6.13z"/>
+  </g>
+  <g id="22-22-system-suspend-hibernate" fill="currentColor" class="ColorScheme-Text" transform="translate(160 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M10.2 3v4.13L7.01 3.94 5.95 5l4.25 4.25v1h-1L4.95 6 3.89 7.06l3.19 3.19H2.95v1.5h4.13l-3.19 3.19L4.95 16l4.25-4.25h1v1L5.95 17l1.06 1.06 3.19-3.19V19h1.5v-4.13l3.19 3.19L15.95 17l-4.25-4.25v-1h1L16.95 16l1.06-1.06-3.19-3.19h4.13v-1.5h-4.13l3.19-3.19L16.95 6l-4.25 4.25h-1v-1L15.95 5l-1.06-1.06-3.19 3.19V3z"/>
+  </g>
+  <g id="22-22-system-suspend" fill="currentColor" class="ColorScheme-Text" transform="translate(192 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M7 14h-.18C6.4 12.84 5.3 12 4 12c-1.66 0-3 1.34-3 3s1.34 3 3 3h3c1.1 0 2-.9 2-2s-.9-2-2-2z"/>
+    <path d="M10.4 3.04a8 8 0 0 0-7.3 7.05 5 5 0 0 1 .938-.1 5 5 0 0 1 4.11 2.16 4 4 0 0 1 2.89 3.84 4 4 0 0 1-1.25 2.89 8 8 0 0 0 1.25.11 8 8 0 0 0 6.63-3.54 8 8 0 0 1-.633.044 8 8 0 0 1-8-8 8 8 0 0 1 1.37-4.46z"/>
+  </g>
+  <g id="22-22-system-switch-user" fill="currentColor" class="ColorScheme-Text" transform="translate(224 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M8 2c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm5 2a2.5 2.5 0 0 1 2.5 2.5A2.5 2.5 0 0 1 13 9a2.5 2.5 0 0 1-2.5-2.5A2.5 2.5 0 0 1 13 4zM2 6v12c0 1.1.9 2 2 2h12v-2H4V6zm11 4c1.84 0 5 .66 5 2.23V14H8v-1.77C8 10.66 11.16 10 13 10z"/>
+  </g>
+  <g id="22-22-system-users" fill="currentColor" class="ColorScheme-Text" transform="translate(256 32)">
+    <rect width="22" height="22" fill="none"/>
+    <circle cx="9.5" cy="8.5" r="2.5"/>
+    <path d="M12 11a2.5 2.5 0 1 0 .51-4.95c-.17 0-.34.02-.51.05.62.63 1.01 1.5 1.01 2.45S12.62 10.37 12 11zm-2.5 1c-1.84 0-5.5.66-5.5 2.23V16h11v-1.77C15 12.66 11.34 12 9.5 12zm5.2.2c.75.48 1.27 1.12 1.27 2v1.77h2V14.2c0-1.05-1.64-1.69-3.27-2z"/>
+  </g>
+  <g id="22-22-system-search" fill="currentColor" class="ColorScheme-Text" transform="translate(288 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M14.5 13h-.79l-.28-.27A6.471 6.471 0 0 0 15 8.5 6.5 6.5 0 1 0 8.5 15c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L19.49 18zm-6 0C6.01 13 4 10.99 4 8.5S6.01 4 8.5 4 13 6.01 13 8.5 10.99 13 8.5 13z"/>
+  </g>
+  <g id="22-22-system-user-list" fill="currentColor" class="ColorScheme-Text" transform="translate(320 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M15.5 7c-.257 0-.495.071-.707.186 0 .001-.066.04-.065.042.079.999-.172 1.63-.457 2.13a1.503 1.503 0 0 0 2.733-.854 1.5 1.5 0 0 0-1.5-1.5zm-9 0c.257 0 .495.071.707.186 0 .001.066.04.065.042-.079.999.172 1.63.457 2.13a1.503 1.503 0 0 1-2.733-.854 1.5 1.5 0 0 1 1.5-1.5zm0 4c.843 0 1.58.389 2.04 1.02-.254.135-.512.3-.736.434-.246-.291-.705-.449-1.3-.449-.9 0-1.5.661-1.5 2h1.25l-.5 1h-1.75v-1.52c0-1.44 1.12-2.48 2.5-2.48zm9 0c-.843 0-1.58.389-2.04 1.02.254.135.512.3.736.434.246-.291.705-.449 1.3-.449.9 0 1.5.683 1.5 2h-1.25l.5 1h1.75v-1.52c0-1.44-1.12-2.48-2.5-2.48zM11 13c2 0 4 1 4 4H7c0-3 2-4 4-4zm0-1c-2.91 0-4.99 2.04-5 5l-.002 1h10l-.002-1c-.006-2.97-2.09-5-5-5zm0-8C9.07 4 7.5 5.57 7.5 7.5S9.07 11 11 11a3.498 3.498 0 0 0 3.5-3.504c0-1.93-1.57-3.5-3.5-3.5z"/>
+  </g>
+  <g id="22-22-system-user-prompt" fill="currentColor" class="ColorScheme-Text" transform="translate(352 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9.5 14.5a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5zm-1.5 0a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5zm-1.5 0a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5zm-1.5 0a.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5.5.5 0 0 1 .5.5zM9 7h2v1H9zM7 7h1v1H7zM4 7h2v1H4zm-2 5v5h18v-5zm1 1h16v3H3zM2 5v5h18V5zm1 1h16v3H3z"/>
+  </g>
+</svg>

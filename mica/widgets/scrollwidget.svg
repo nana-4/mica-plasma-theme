@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="border-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="border-top" fill="currentColor" class="ColorScheme-Text" transform="translate(16 8)">
+    <rect width="4" height="2" fill="none"/>
+    <rect width="4" height="1" opacity=".2"/>
+  </g>
+  <g id="border-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(24 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="border-left" fill="currentColor" class="ColorScheme-Text" transform="translate(8 16)">
+    <rect width="2" height="4" fill="none"/>
+    <rect width="1" height="4" opacity=".2"/>
+  </g>
+  <g id="border-center" fill="currentColor" class="ColorScheme-Text" transform="translate(16 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="border-right" fill="currentColor" class="ColorScheme-Text" transform="translate(24 16)">
+    <rect width="2" height="4" x="2" fill="none"/>
+    <rect width="1" height="4" x="3" opacity=".2"/>
+  </g>
+  <g id="border-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 24)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="border-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(16 24)">
+    <rect width="4" height="2" y="2" fill="none"/>
+    <rect width="4" height="1" y="3" opacity=".2"/>
+  </g>
+  <g id="border-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(24 24)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+</svg>

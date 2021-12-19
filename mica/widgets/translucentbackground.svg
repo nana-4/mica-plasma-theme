@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="60">
+  <defs>
+    <linearGradient id="Gradient">
+      <stop offset="0" stop-opacity=".2"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="Gradient" id="def-shadow-top" x1="0" x2="0" y1="8" y2="4" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-left" x1="8" x2="4" y1="0" y2="0" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-right" x1="4" x2="8" y1="0" y2="0" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-bottom" x1="0" x2="0" y1="4" y2="8" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-topleft" cx="8" cy="8" r="4" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-topright" cx="4" cy="8" r="4" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-bottomleft" cx="8" cy="4" r="4" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-bottomright" cx="4" cy="4" r="4" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="hint-tile-center" fill="#0f0" transform="translate(8 36)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 8)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(16 8)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(24 8)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 16)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(16 16)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(24 16)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 24)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(16 24)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(24 24)">
+    <rect width="4" height="4" opacity=".5"/>
+  </g>
+  <g id="hint-top-margin" fill="#f0f" transform="translate(17 8)">
+    <rect width="2" height="6"/>
+  </g>
+  <g id="hint-bottom-margin" fill="#f0f" transform="translate(17 22)">
+    <rect width="2" height="6"/>
+  </g>
+  <g id="hint-left-margin" fill="#f0f" transform="translate(8 17)">
+    <rect width="6" height="2"/>
+  </g>
+  <g id="hint-right-margin" fill="#f0f" transform="translate(22 17)">
+    <rect width="6" height="2"/>
+  </g>
+  <g id="hint-top-inset" fill="#0f0" transform="translate(17 8)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="hint-bottom-inset" fill="#0f0" transform="translate(17 28)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="hint-left-inset" fill="#0f0" transform="translate(8 17)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="hint-right-inset" fill="#0f0" transform="translate(28 17)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="shadow-topleft" transform="translate(36 8)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="8" height="8" fill="url(#def-shadow-topleft)"/>
+    <rect width="4" height="8" x="8" fill="url(#def-shadow-top)"/>
+    <rect width="8" height="4" y="8" fill="url(#def-shadow-left)"/>
+  </g>
+  <g id="shadow-top" transform="translate(52 8)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="12" height="8" fill="url(#def-shadow-top)"/>
+  </g>
+  <g id="shadow-topright" transform="translate(68 8)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="8" height="8" x="4" fill="url(#def-shadow-topright)"/>
+    <rect width="4" height="8" fill="url(#def-shadow-top)"/>
+    <rect width="8" height="4" x="4" y="8" fill="url(#def-shadow-right)"/>
+  </g>
+  <g id="shadow-left" transform="translate(36 24)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="8" height="12" fill="url(#def-shadow-left)"/>
+  </g>
+  <g id="shadow-center" transform="translate(52 24)">
+    <rect width="12" height="12" fill="none"/>
+  </g>
+  <g id="shadow-right" transform="translate(68 24)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="8" height="12" x="4" fill="url(#def-shadow-right)"/>
+  </g>
+  <g id="shadow-bottomleft" transform="translate(36 40)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="8" height="8" y="4" fill="url(#def-shadow-bottomleft)"/>
+    <rect width="4" height="8" x="8" y="4" fill="url(#def-shadow-bottom)"/>
+    <rect width="8" height="4" fill="url(#def-shadow-left)"/>
+  </g>
+  <g id="shadow-bottom" transform="translate(52 40)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="12" height="8" y="4" fill="url(#def-shadow-bottom)"/>
+  </g>
+  <g id="shadow-bottomright" transform="translate(68 40)">
+    <rect width="12" height="12" fill="none"/>
+    <rect width="8" height="8" x="4" y="4" fill="url(#def-shadow-bottomright)"/>
+    <rect width="4" height="8" y="4" fill="url(#def-shadow-bottom)"/>
+    <rect width="8" height="4" x="4" fill="url(#def-shadow-right)"/>
+  </g>
+  <g id="shadow-hint-top-margin" fill="#f0f" transform="translate(55 8)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="shadow-hint-bottom-margin" fill="#f0f" transform="translate(55 44)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="shadow-hint-left-margin" fill="#f0f" transform="translate(36 27)">
+    <rect width="8" height="2"/>
+  </g>
+  <g id="shadow-hint-right-margin" fill="#f0f" transform="translate(72 27)">
+    <rect width="8" height="2"/>
+  </g>
+  <g id="shadow-hint-top-inset" fill="#0f0" transform="translate(59 8)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="shadow-hint-bottom-inset" fill="#0f0" transform="translate(59 44)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="shadow-hint-left-inset" fill="#0f0" transform="translate(36 31)">
+    <rect width="8" height="2"/>
+  </g>
+  <g id="shadow-hint-right-inset" fill="#0f0" transform="translate(72 31)">
+    <rect width="8" height="2"/>
+  </g>
+</svg>

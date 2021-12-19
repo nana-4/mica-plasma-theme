@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="54">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="preferences-desktop-notification" fill="currentColor" class="ColorScheme-Text" transform="translate(0 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18 2H4c-1.1 0-1.99.9-1.99 2L2 20l4-4h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-6 8h-2V4h2zm0 4h-2v-2h2z"/>
+  </g>
+  <g id="preferences-desktop-display-randr" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M26 5H6c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h6v2h8v-2h6c1.1 0 2-.9 2-2V7a2 2 0 0 0-2-2zm0 18H6V7h20z"/>
+    <rect width="8" height="1.5" x="10" y="12.2"/>
+    <polygon points="16.5 9.75 18 9.75 18 8.25 16.5 8.25 16.5 7 15 7 15 11 16.5 11" transform="translate(4 4)"/>
+    <rect width="8" height="1.5" x="14" y="16.2"/>
+    <polygon points="7.5 15 9 15 9 11 7.5 11 7.5 12.2 6 12.2 6 13.8 7.5 13.8" transform="translate(4 4)"/>
+  </g>
+  <g id="preferences-system-bluetooth" transform="translate(64)">
+    <rect width="32" height="32" fill="none"/>
+    <path fill="currentColor" d="M16 4v11l-6-6-.705.705 6.29 6.29-6.29 6.29.705.705 6-6v11h1l6-6v-.004l-6-6 6-6v-.004l-6-6h-.002zm1 1.41L21.59 10 17 14.59zm0 12L21.59 22 17 26.59z" class="ColorScheme-Text"/>
+  </g>
+  <g id="preferences-system-bluetooth-activated" transform="translate(96)">
+    <rect width="32" height="32" fill="none"/>
+    <path fill="currentColor" d="M16 4v11l-6-6-.705.705 6.29 6.29-6.29 6.29.705.705 6-6v11h1l6-6v-.004l-6-6 6-6v-.004l-6-6zm1 1.41L21.59 10 17 14.59zM3 15a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm6 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm14 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm6 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-12 2.41L21.59 22 17 26.59z" class="ColorScheme-Text"/>
+  </g>
+  <g id="preferences-system-bluetooth-inactive" transform="translate(128)">
+    <rect width="32" height="32" fill="none"/>
+    <path fill="currentColor" d="M16 4v11l-6-6-.705.705 6.29 6.29-6.29 6.29.705.705 6-6v11h1l6-6v-.004l-6-6 6-6v-.004l-6-6zm1 1.41L21.59 10 17 14.59zm0 12L21.59 22 17 26.59z" class="ColorScheme-Text" opacity=".5"/>
+  </g>
+  <g id="preferences-system-bluetooth-battery" transform="translate(160)">
+    <rect width="32" height="32" fill="none"/>
+    <path fill="currentColor" d="M16 4v11l-6-6-.705.705 6.29 6.29-6.29 6.29.705.705 6-6v11h1l6-6v-.004l-6-6 6-6v-.004l-6-6h-.002zm1 1.41L21.59 10 17 14.59zm0 12L21.59 22 17 26.59z" class="ColorScheme-Text"/>
+  </g>
+  <g id="22-22-preferences-desktop-display-randr" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M3 2c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h4v2h8v-2h4c1.1 0 2-.9 2-2V4a2 2 0 0 0-2-2zm0 2h16v12H3zm11 2v4h1.5V8.75H17v-1.5h-1.5V6zM5 7.25v1.5h8v-1.5zM6.5 10v1.25H5v1.5h1.5V14H8v-4zM9 11.25v1.5h8v-1.5z"/>
+  </g>
+  <g id="22-22-preferences-system-bluetooth" transform="translate(64 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path fill="currentColor" d="M11 3v7.04L7.71 6.75l-.002.002-.996-.996-.707.707 4.54 4.54-4.54 4.54.707.707.996-.996h.002l3.29-3.29v7.04h1l4-4-4-4 4-4-4-4zm1 1.42 2.59 2.59L12 9.6zm0 8 2.59 2.59L12 17.6z" class="ColorScheme-Text"/>
+  </g>
+  <g id="22-22-preferences-system-bluetooth-activated" transform="translate(96 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path fill="currentColor" d="M11 3v7.04L7.71 6.75l-.002.002-.996-.996-.707.707 4.54 4.54-4.54 4.54.707.707.996-.996h.002l3.29-3.29v7.04h1l4-4-4-4 4-4-4-4zm1 1.42 2.59 2.59L12 9.6zM1 10a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm4 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm12 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm4 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-9 2.42 2.59 2.59L12 17.6z" class="ColorScheme-Text"/>
+  </g>
+  <g id="22-22-preferences-system-bluetooth-inactive" transform="translate(128 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path fill="currentColor" d="M11 3v7.04L7.71 6.75l-.002.002-.996-.996-.707.707 4.54 4.54-4.54 4.54.707.707.996-.996h.002l3.29-3.29v7.04h1l4-4-4-4 4-4-4-4zm1 1.42 2.59 2.59L12 9.6zm0 8 2.59 2.59L12 17.6z" class="ColorScheme-Text" opacity=".5"/>
+  </g>
+</svg>

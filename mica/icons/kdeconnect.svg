@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="32">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="kdeconnect" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M9 2a2 2 0 0 0-2 2v24a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H9zm0 4h14v20H9V6z"/>
+    <path d="M12 11v10h2v-4.25L17.5 21H20l-4-5 4-5h-2.5L14 15.25V11z"/>
+  </g>
+  <g id="22-22-kdeconnect" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M7 1a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H7zm0 4h8v12H7V5z"/>
+    <path d="M8.5 8v6H10v-2.25L11.75 14h1.75l-2.25-3 2.25-3h-1.75L10 10.25V8z"/>
+  </g>
+  <g id="16-16-kdeconnect" fill="currentColor" class="ColorScheme-Text" transform="translate(54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M5 0C3.9 0 3 .895 3 2v12c0 1.1.895 2 2 2h3v-3H5V3h6v5h2V2c0-1.1-.895-2-2-2z"/>
+    <path d="M10.5 10v6H12v-2.25L13.75 16h1.75l-2.25-3 2.25-3h-1.75L12 12.25V10z"/>
+  </g>
+</svg>

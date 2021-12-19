@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="event" fill="currentColor" class="ColorScheme-Highlight" transform="translate(14 14)">
+    <path d="M16 0 0 16h16z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="32">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="checkbox" fill="currentColor" class="ColorScheme-Highlight">
+    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm10.6 3.59L14.01 5l-8 8-4-4 1.41-1.41 2.59 2.59 6.59-6.59z"/>
+  </g>
+  <g id="radiobutton" fill="currentColor" class="ColorScheme-Highlight" transform="translate(0 16)">
+    <path d="M8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6zm0 2a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4z"/>
+  </g>
+</svg>

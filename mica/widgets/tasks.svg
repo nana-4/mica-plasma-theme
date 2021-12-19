@@ -1,0 +1,866 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="120">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="thick-hint-top-margin" fill="#f0f" transform="translate(17 8)">
+    <rect width="2" height="4"/>
+  </g>
+  <g id="thick-hint-bottom-margin" fill="#f0f" transform="translate(17 24)">
+    <rect width="2" height="4"/>
+  </g>
+  <g id="thick-hint-left-margin" fill="#f0f" transform="translate(8 17)">
+    <rect width="4" height="2"/>
+  </g>
+  <g id="thick-hint-right-margin" fill="#f0f" transform="translate(24 17)">
+    <rect width="4" height="2"/>
+  </g>
+  <g id="normal-topleft" transform="translate(8 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-top" transform="translate(16 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-topright" transform="translate(24 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-left" transform="translate(8 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-center" transform="translate(16 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-right" transform="translate(24 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-bottomleft" transform="translate(8 24)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="normal-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(16 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="normal-bottomright" transform="translate(24 24)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".08"/>
+  </g>
+  <g id="hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(44 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".08"/>
+  </g>
+  <g id="hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(36 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".08"/>
+  </g>
+  <g id="hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(44 16)">
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(52 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".08"/>
+  </g>
+  <g id="hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".08"/>
+    <rect width="2" height="2" x="2" y="2" opacity=".38"/>
+  </g>
+  <g id="hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(44 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".08"/>
+    <rect width="2" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="focus-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="focus-top" fill="currentColor" class="ColorScheme-Text" transform="translate(72 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="focus-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="focus-left" fill="currentColor" class="ColorScheme-Text" transform="translate(64 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="focus-center" fill="currentColor" class="ColorScheme-Text" transform="translate(72 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="focus-right" fill="currentColor" class="ColorScheme-Text" transform="translate(80 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="focus-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+    <rect width="2" height="2" x="2" y="2" opacity=".38"/>
+  </g>
+  <g id="focus-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(72 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="focus-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+    <rect width="2" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="minimized-topleft" transform="translate(92 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-top" transform="translate(100 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-topright" transform="translate(108 8)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-left" transform="translate(92 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-center" transform="translate(100 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-right" transform="translate(108 16)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-bottomleft" transform="translate(92 24)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="minimized-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(100 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".2"/>
+  </g>
+  <g id="minimized-bottomright" transform="translate(108 24)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="attention-topleft" fill="#fdd663" transform="translate(120 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="attention-top" fill="#fdd663" transform="translate(128 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="attention-topright" fill="#fdd663" transform="translate(136 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="attention-left" fill="#fdd663" transform="translate(120 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="attention-center" fill="#fdd663" transform="translate(128 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="attention-right" fill="#fdd663" transform="translate(136 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="attention-bottomleft" fill="#fdd663" transform="translate(120 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+    <rect width="2" height="2" x="2" y="2"/>
+  </g>
+  <g id="attention-bottom" fill="#fdd663" transform="translate(128 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="4" height="2" y="2"/>
+  </g>
+  <g id="attention-bottomright" fill="#fdd663" transform="translate(136 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+    <rect width="2" height="2" y="2"/>
+  </g>
+  <g id="progress-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="progress-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="progress-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 8)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="progress-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="progress-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="progress-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 16)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="progress-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="progress-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="progress-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 24)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="north-normal-topleft" transform="translate(8 36)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-top" fill="currentColor" class="ColorScheme-Text" transform="translate(16 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="north-normal-topright" transform="translate(24 36)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-left" transform="translate(8 44)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-center" transform="translate(16 44)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-right" transform="translate(24 44)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-bottomleft" transform="translate(8 52)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-bottom" transform="translate(16 52)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-normal-bottomright" transform="translate(24 52)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".08"/>
+    <rect width="2" height="2" x="2" opacity=".38"/>
+  </g>
+  <g id="north-hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(44 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="north-hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".08"/>
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="north-hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(36 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".08"/>
+  </g>
+  <g id="north-hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(44 44)">
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="north-hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(52 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".08"/>
+  </g>
+  <g id="north-hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".08"/>
+  </g>
+  <g id="north-hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(44 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="north-hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".08"/>
+  </g>
+  <g id="north-focus-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+    <rect width="2" height="2" x="2" opacity=".38"/>
+  </g>
+  <g id="north-focus-top" fill="currentColor" class="ColorScheme-Text" transform="translate(72 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="north-focus-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="north-focus-left" fill="currentColor" class="ColorScheme-Text" transform="translate(64 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="north-focus-center" fill="currentColor" class="ColorScheme-Text" transform="translate(72 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="north-focus-right" fill="currentColor" class="ColorScheme-Text" transform="translate(80 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="north-focus-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="north-focus-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(72 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="north-focus-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="north-minimized-topleft" transform="translate(92 36)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-top" fill="currentColor" class="ColorScheme-Text" transform="translate(100 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".2"/>
+  </g>
+  <g id="north-minimized-topright" transform="translate(108 36)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-left" transform="translate(92 44)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-center" transform="translate(100 44)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-right" transform="translate(108 44)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-bottomleft" transform="translate(92 52)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-bottom" transform="translate(100 52)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-minimized-bottomright" transform="translate(108 52)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="north-attention-topleft" fill="#fdd663" transform="translate(120 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+    <rect width="2" height="2" x="2"/>
+  </g>
+  <g id="north-attention-top" fill="#fdd663" transform="translate(128 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="4" height="2"/>
+  </g>
+  <g id="north-attention-topright" fill="#fdd663" transform="translate(136 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+    <rect width="2" height="2"/>
+  </g>
+  <g id="north-attention-left" fill="#fdd663" transform="translate(120 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="north-attention-center" fill="#fdd663" transform="translate(128 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="north-attention-right" fill="#fdd663" transform="translate(136 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="north-attention-bottomleft" fill="#fdd663" transform="translate(120 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".16"/>
+  </g>
+  <g id="north-attention-bottom" fill="#fdd663" transform="translate(128 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="north-attention-bottomright" fill="#fdd663" transform="translate(136 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".16"/>
+  </g>
+  <g id="north-progress-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="north-progress-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="north-progress-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 36)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="north-progress-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="north-progress-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="north-progress-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 44)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="north-progress-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="north-progress-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="north-progress-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 52)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="west-normal-topleft" transform="translate(8 64)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-top" transform="translate(16 64)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-topright" transform="translate(24 64)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-left" fill="currentColor" class="ColorScheme-Text" transform="translate(8 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="west-normal-center" transform="translate(16 72)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-right" transform="translate(24 72)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-bottomleft" transform="translate(8 80)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-bottom" transform="translate(16 80)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-normal-bottomright" transform="translate(24 80)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".08"/>
+    <rect width="2" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="west-hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(44 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".08"/>
+  </g>
+  <g id="west-hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".08"/>
+  </g>
+  <g id="west-hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(36 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="west-hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(44 72)">
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="west-hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(52 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="west-hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".08"/>
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="west-hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(44 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".08"/>
+  </g>
+  <g id="west-hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".08"/>
+  </g>
+  <g id="west-focus-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+    <rect width="2" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="west-focus-top" fill="currentColor" class="ColorScheme-Text" transform="translate(72 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="west-focus-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="west-focus-left" fill="currentColor" class="ColorScheme-Text" transform="translate(64 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="west-focus-center" fill="currentColor" class="ColorScheme-Text" transform="translate(72 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="west-focus-right" fill="currentColor" class="ColorScheme-Text" transform="translate(80 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="west-focus-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+    <rect width="2" height="2" opacity=".38"/>
+  </g>
+  <g id="west-focus-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(72 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="west-focus-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="west-minimized-topleft" transform="translate(92 64)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-top" transform="translate(100 64)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-topright" transform="translate(108 64)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-left" fill="currentColor" class="ColorScheme-Text" transform="translate(92 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".2"/>
+  </g>
+  <g id="west-minimized-center" transform="translate(100 72)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-right" transform="translate(108 72)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-bottomleft" transform="translate(92 80)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-bottom" transform="translate(100 80)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-minimized-bottomright" transform="translate(108 80)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="west-attention-topleft" fill="#fdd663" transform="translate(120 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+    <rect width="2" height="2" y="2"/>
+  </g>
+  <g id="west-attention-top" fill="#fdd663" transform="translate(128 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="west-attention-topright" fill="#fdd663" transform="translate(136 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="west-attention-left" fill="#fdd663" transform="translate(120 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="2" height="4"/>
+  </g>
+  <g id="west-attention-center" fill="#fdd663" transform="translate(128 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="west-attention-right" fill="#fdd663" transform="translate(136 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="west-attention-bottomleft" fill="#fdd663" transform="translate(120 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+    <rect width="2" height="2"/>
+  </g>
+  <g id="west-attention-bottom" fill="#fdd663" transform="translate(128 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="west-attention-bottomright" fill="#fdd663" transform="translate(136 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="west-progress-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="west-progress-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="west-progress-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="west-progress-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="west-progress-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="west-progress-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 72)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="west-progress-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="west-progress-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="west-progress-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 80)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="east-normal-topleft" transform="translate(8 92)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-top" transform="translate(16 92)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-topright" transform="translate(24 92)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-left" transform="translate(8 100)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-center" transform="translate(16 100)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-right" fill="currentColor" class="ColorScheme-Text" transform="translate(24 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="east-normal-bottomleft" transform="translate(8 108)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-bottom" transform="translate(16 108)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-normal-bottomright" transform="translate(24 108)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".08"/>
+  </g>
+  <g id="east-hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(44 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".08"/>
+  </g>
+  <g id="east-hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".08"/>
+    <rect width="2" height="2" x="2" y="2" opacity=".38"/>
+  </g>
+  <g id="east-hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(36 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="east-hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(44 100)">
+    <rect width="4" height="4" opacity=".08"/>
+  </g>
+  <g id="east-hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(52 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".08"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="east-hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(36 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".08"/>
+  </g>
+  <g id="east-hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(44 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".08"/>
+  </g>
+  <g id="east-hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(52 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".08"/>
+    <rect width="2" height="2" x="2" opacity=".38"/>
+  </g>
+  <g id="east-focus-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="east-focus-top" fill="currentColor" class="ColorScheme-Text" transform="translate(72 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="east-focus-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+    <rect width="2" height="2" x="2" y="2" opacity=".38"/>
+  </g>
+  <g id="east-focus-left" fill="currentColor" class="ColorScheme-Text" transform="translate(64 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="east-focus-center" fill="currentColor" class="ColorScheme-Text" transform="translate(72 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="east-focus-right" fill="currentColor" class="ColorScheme-Text" transform="translate(80 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="2" height="4" x="2" opacity=".38"/>
+  </g>
+  <g id="east-focus-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(64 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="east-focus-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(72 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="east-focus-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(80 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+    <rect width="2" height="2" x="2" opacity=".38"/>
+  </g>
+  <g id="east-minimized-topleft" transform="translate(92 92)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-top" transform="translate(100 92)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-topright" transform="translate(108 92)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-left" transform="translate(92 100)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-center" transform="translate(100 100)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-right" fill="currentColor" class="ColorScheme-Text" transform="translate(108 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="2" height="4" x="2" opacity=".2"/>
+  </g>
+  <g id="east-minimized-bottomleft" transform="translate(92 108)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-bottom" transform="translate(100 108)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-minimized-bottomright" transform="translate(108 108)">
+    <rect width="4" height="4" fill="none"/>
+  </g>
+  <g id="east-attention-topleft" fill="#fdd663" transform="translate(120 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="east-attention-top" fill="#fdd663" transform="translate(128 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+  </g>
+  <g id="east-attention-topright" fill="#fdd663" transform="translate(136 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".16"/>
+    <rect width="2" height="2" x="2" y="2"/>
+  </g>
+  <g id="east-attention-left" fill="#fdd663" transform="translate(120 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="east-attention-center" fill="#fdd663" transform="translate(128 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+  </g>
+  <g id="east-attention-right" fill="#fdd663" transform="translate(136 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".16"/>
+    <rect width="2" height="4" x="2"/>
+  </g>
+  <g id="east-attention-bottomleft" fill="#fdd663" transform="translate(120 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="east-attention-bottom" fill="#fdd663" transform="translate(128 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+  </g>
+  <g id="east-attention-bottomright" fill="#fdd663" transform="translate(136 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".16"/>
+    <rect width="2" height="2" x="2"/>
+  </g>
+  <g id="east-progress-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="east-progress-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="east-progress-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 92)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" y="2" opacity=".38"/>
+  </g>
+  <g id="east-progress-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="east-progress-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="east-progress-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 100)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="east-progress-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(148 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="east-progress-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(156 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="east-progress-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(164 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="group-expander-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(176 14)">
+    <rect width="8" height="8" fill="none"/>
+    <circle cx="4" cy="4" r="2"/>
+  </g>
+  <g id="group-expander-top" fill="currentColor" class="ColorScheme-Text" transform="translate(176 42)">
+    <rect width="8" height="8" fill="none"/>
+    <circle cx="4" cy="4" r="2"/>
+  </g>
+  <g id="group-expander-left" fill="currentColor" class="ColorScheme-Text" transform="translate(176 70)">
+    <rect width="8" height="8" fill="none"/>
+    <circle cx="4" cy="4" r="2"/>
+  </g>
+  <g id="group-expander-right" fill="currentColor" class="ColorScheme-Text" transform="translate(176 98)">
+    <rect width="8" height="8" fill="none"/>
+    <circle cx="4" cy="4" r="2"/>
+  </g>
+</svg>

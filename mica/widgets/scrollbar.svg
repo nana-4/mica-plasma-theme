@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="80">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="slider-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(12 12)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M4 0a4 4 0 0 0-4 4h4z" opacity=".38"/>
+  </g>
+  <g id="slider-top" fill="currentColor" class="ColorScheme-Text" transform="translate(20 12)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="slider-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(28 12)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4h4a4 4 0 0 0-4-4z" opacity=".38"/>
+  </g>
+  <g id="slider-left" fill="currentColor" class="ColorScheme-Text" transform="translate(12 20)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="slider-center" fill="currentColor" class="ColorScheme-Text" transform="translate(20 20)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="slider-right" fill="currentColor" class="ColorScheme-Text" transform="translate(28 20)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="slider-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(12 28)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0a4 4 0 0 0 4 4V0z" opacity=".38"/>
+  </g>
+  <g id="slider-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(20 28)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="slider-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(28 28)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4a4 4 0 0 0 4-4z" opacity=".38"/>
+  </g>
+  <rect id="slider-hint-top-inset" width="2" height="4" x="21" y="8" fill="#f0f"/>
+  <rect id="slider-hint-bottom-inset" width="2" height="4" x="21" y="32" fill="#f0f"/>
+  <rect id="slider-hint-left-inset" width="4" height="2" x="8" y="21" fill="#f0f"/>
+  <rect id="slider-hint-right-inset" width="4" height="2" x="32" y="21" fill="#f0f"/>
+  <g id="mouseover-slider-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 12)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M4 0a4 4 0 0 0-4 4h4z" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-top" fill="currentColor" class="ColorScheme-Text" transform="translate(56 12)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(64 12)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4h4a4 4 0 0 0-4-4z" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-left" fill="currentColor" class="ColorScheme-Text" transform="translate(48 20)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-center" fill="currentColor" class="ColorScheme-Text" transform="translate(56 20)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-right" fill="currentColor" class="ColorScheme-Text" transform="translate(64 20)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 28)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0a4 4 0 0 0 4 4V0z" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(56 28)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="mouseover-slider-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(64 28)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4a4 4 0 0 0 4-4z" opacity=".38"/>
+  </g>
+  <rect id="mouseover-slider-hint-top-inset" width="2" height="4" x="57" y="8" fill="#f0f"/>
+  <rect id="mouseover-slider-hint-bottom-inset" width="2" height="4" x="57" y="32" fill="#f0f"/>
+  <rect id="mouseover-slider-hint-left-inset" width="4" height="2" x="44" y="21" fill="#f0f"/>
+  <rect id="mouseover-slider-hint-right-inset" width="4" height="2" x="68" y="21" fill="#f0f"/>
+  <g id="background-vertical-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(12 48)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M4 0a4 4 0 0 0-4 4h4z" opacity=".12"/>
+  </g>
+  <g id="background-vertical-top" fill="currentColor" class="ColorScheme-Text" transform="translate(20 48)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-vertical-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(28 48)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4h4a4 4 0 0 0-4-4z" opacity=".12"/>
+  </g>
+  <g id="background-vertical-left" fill="currentColor" class="ColorScheme-Text" transform="translate(12 56)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-vertical-center" fill="currentColor" class="ColorScheme-Text" transform="translate(20 56)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-vertical-right" fill="currentColor" class="ColorScheme-Text" transform="translate(28 56)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-vertical-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(12 64)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0a4 4 0 0 0 4 4V0z" opacity=".12"/>
+  </g>
+  <g id="background-vertical-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(20 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-vertical-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(28 64)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4a4 4 0 0 0 4-4z" opacity=".12"/>
+  </g>
+  <rect id="background-vertical-hint-top-inset" width="2" height="4" x="21" y="44" fill="#0ff"/>
+  <rect id="background-vertical-hint-bottom-inset" width="2" height="4" x="21" y="68" fill="#0ff"/>
+  <rect id="background-vertical-hint-left-inset" width="4" height="2" x="8" y="57" fill="#0ff"/>
+  <rect id="background-vertical-hint-right-inset" width="4" height="2" x="32" y="57" fill="#0ff"/>
+  <g id="background-horizontal-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 48)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M4 0a4 4 0 0 0-4 4h4z" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-top" fill="currentColor" class="ColorScheme-Text" transform="translate(56 48)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(64 48)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4h4a4 4 0 0 0-4-4z" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-left" fill="currentColor" class="ColorScheme-Text" transform="translate(48 56)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-center" fill="currentColor" class="ColorScheme-Text" transform="translate(56 56)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-right" fill="currentColor" class="ColorScheme-Text" transform="translate(64 56)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 64)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0a4 4 0 0 0 4 4V0z" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(56 64)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".12"/>
+  </g>
+  <g id="background-horizontal-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(64 64)">
+    <rect width="4" height="4" fill="none"/>
+    <path d="M0 0v4a4 4 0 0 0 4-4z" opacity=".12"/>
+  </g>
+  <rect id="background-horizontal-hint-top-inset" width="2" height="4" x="57" y="44" fill="#0ff"/>
+  <rect id="background-horizontal-hint-bottom-inset" width="2" height="4" x="57" y="68" fill="#0ff"/>
+  <rect id="background-horizontal-hint-left-inset" width="4" height="2" x="44" y="57" fill="#0ff"/>
+  <rect id="background-horizontal-hint-right-inset" width="4" height="2" x="68" y="57" fill="#0ff"/>
+  <rect id="hint-scrollbar-size" width="8" height="8" x="80" y="8" fill="red"/>
+  <rect id="hint-tile-center" width="4" height="4" x="80" y="24" fill="#4e9a06"/>
+</svg>

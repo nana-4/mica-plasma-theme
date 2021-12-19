@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="48">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="hint-tile-center" fill="green" transform="translate(168 8)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="normal-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(32 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-top" fill="currentColor" class="ColorScheme-Text" transform="translate(20 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(20 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-left" fill="currentColor" class="ColorScheme-Text" transform="translate(8 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-right" fill="currentColor" class="ColorScheme-Text" transform="translate(32 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-center" fill="currentColor" class="ColorScheme-Text" transform="translate(20 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".16"/>
+  </g>
+  <g id="hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(72 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".16"/>
+  </g>
+  <g id="hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".16"/>
+  </g>
+  <g id="hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(72 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".16"/>
+  </g>
+  <g id="hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(60 8)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(60 32)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(48 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(72 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(60 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="selected-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".12"/>
+  </g>
+  <g id="selected-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".12"/>
+  </g>
+  <g id="selected-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".12"/>
+  </g>
+  <g id="selected-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".12"/>
+  </g>
+  <g id="selected-top" fill="currentColor" class="ColorScheme-Text" transform="translate(100 8)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".12"/>
+  </g>
+  <g id="selected-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(100 32)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".12"/>
+  </g>
+  <g id="selected-left" fill="currentColor" class="ColorScheme-Text" transform="translate(88 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".12"/>
+  </g>
+  <g id="selected-right" fill="currentColor" class="ColorScheme-Text" transform="translate(112 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".12"/>
+  </g>
+  <g id="selected-center" fill="currentColor" class="ColorScheme-Text" transform="translate(100 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".12"/>
+  </g>
+  <g id="selected+hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(128 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".24"/>
+  </g>
+  <g id="selected+hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(152 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".24"/>
+  </g>
+  <g id="selected+hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(128 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".24"/>
+  </g>
+  <g id="selected+hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(152 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".24"/>
+  </g>
+  <g id="selected+hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(140 8)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".24"/>
+  </g>
+  <g id="selected+hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(140 32)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".24"/>
+  </g>
+  <g id="selected+hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(128 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".24"/>
+  </g>
+  <g id="selected+hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(152 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".24"/>
+  </g>
+  <g id="selected+hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(140 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="8" opacity=".24"/>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="S" fill="currentColor" class="ColorScheme-Text">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M11 3 8 18l3-2 3 2z"/>
+  </g>
+  <g id="SSW" fill="currentColor" class="ColorScheme-Text" transform="translate(22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m14.1 3.61-8.51 12.7 3.54-.7 2.01 3z"/>
+  </g>
+  <g id="SW" fill="currentColor" class="ColorScheme-Text" transform="translate(44)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M16.7 5.35 4 13.84l3.54.707.707 3.54z"/>
+  </g>
+  <g id="WSW" fill="currentColor" class="ColorScheme-Text" transform="translate(66)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m18.4 7.94-15 2.97 3 2.01-.7 3.54z"/>
+  </g>
+  <g id="W" fill="currentColor" class="ColorScheme-Text" transform="translate(0 22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M19 11 4 8l2 3-2 3z"/>
+  </g>
+  <g id="WNW" fill="currentColor" class="ColorScheme-Text" transform="translate(22 22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18.4 14.1 5.7 5.59l.7 3.54-3 2.01z"/>
+  </g>
+  <g id="NW" fill="currentColor" class="ColorScheme-Text" transform="translate(44 22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M16.7 16.7 8.21 4l-.707 3.54-3.54.707z"/>
+  </g>
+  <g id="NNW" fill="currentColor" class="ColorScheme-Text" transform="translate(66 22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m14.1 18.4-2.97-15-2.01 3-3.54-.7z"/>
+  </g>
+  <g id="N" fill="currentColor" class="ColorScheme-Text" transform="translate(0 44)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m11 19 3-15-3 2-3-2z"/>
+  </g>
+  <g id="NNE" fill="currentColor" class="ColorScheme-Text" transform="translate(22 44)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m7.93 18.4 8.51-12.7-3.54.7-2.01-3z"/>
+  </g>
+  <g id="NE" fill="currentColor" class="ColorScheme-Text" transform="translate(44 44)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m5.34 16.7 12.7-8.49-3.54-.707-.707-3.54z"/>
+  </g>
+  <g id="ENE" fill="currentColor" class="ColorScheme-Text" transform="translate(66 44)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m3.6 14.1 15-2.97-3-2.01.7-3.54z"/>
+  </g>
+  <g id="E" fill="currentColor" class="ColorScheme-Text" transform="translate(0 66)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m3 11 15 3-2-3 2-3z"/>
+  </g>
+  <g id="ESE" fill="currentColor" class="ColorScheme-Text" transform="translate(22 66)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m3.61 7.94 12.7 8.51-.7-3.54 3-2.01z"/>
+  </g>
+  <g id="SE" fill="currentColor" class="ColorScheme-Text" transform="translate(44 66)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m5.34 5.34 8.49 12.7.707-3.54 3.54-.707z"/>
+  </g>
+  <g id="SSE" fill="currentColor" class="ColorScheme-Text" transform="translate(66 66)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m7.94 3.61 2.97 15 2.01-3 3.54.7z"/>
+  </g>
+</svg>

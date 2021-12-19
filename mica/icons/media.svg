@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="70">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="media-playback-playing" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M-6-26a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-16a2 2 0 0 0-2-2zm7 4.6L9.4-16 1-10.6z" transform="translate(12 32)"/>
+  </g>
+  <g id="media-playback-paused" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M26-26a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-16a2 2 0 0 0-2-2zm6 5h3v10h-3zm5 0h3v10h-3z" transform="translate(-20 32)"/>
+  </g>
+  <g id="media-playback-stopped" fill="currentColor" class="ColorScheme-Text" transform="translate(64)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M50-26a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-16a2 2 0 0 0-2-2zm5 5h10v10H55z" transform="translate(-44 32)"/>
+  </g>
+  <g id="32-32-media-playback-start" fill="currentColor" class="ColorScheme-Text" transform="translate(96)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M12 9v14l11-7z"/>
+  </g>
+  <g id="32-32-media-playback-pause" fill="currentColor" class="ColorScheme-Text" transform="translate(128)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M10 23h4V9h-4zm8-14v14h4V9z"/>
+  </g>
+  <g id="32-32-media-playback-stop" fill="currentColor" class="ColorScheme-Text" transform="translate(160)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M10 10h12v12H10z"/>
+  </g>
+  <g id="32-32-media-record" fill="#f28b82" transform="translate(192)">
+    <rect width="32" height="32" fill="none"/>
+    <circle cx="16" cy="16" r="8"/>
+  </g>
+  <g id="32-32-media-seek-backward" fill="currentColor" class="ColorScheme-Text" transform="translate(224)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M15 22V10l-8.5 6zm.5-6 8.5 6V10z"/>
+  </g>
+  <g id="32-32-media-seek-forward" fill="currentColor" class="ColorScheme-Text" transform="translate(256)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="m8 22 8.5-6L8 10zm9-12v12l8.5-6z"/>
+  </g>
+  <g id="32-32-media-skip-backward" fill="currentColor" class="ColorScheme-Text" transform="translate(288)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M10 10h2v12h-2zm3.5 6 8.5 6V10z"/>
+  </g>
+  <g id="32-32-media-skip-forward" fill="currentColor" class="ColorScheme-Text" transform="translate(320)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="m10 22 8.5-6-8.5-6zm10-12v12h2V10z"/>
+  </g>
+  <g id="32-32-media-eject" fill="currentColor" class="ColorScheme-Text" transform="translate(352)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M9 21h14v2H9zm7-12L9.33 19h13.3z"/>
+  </g>
+  <g id="22-22-media-playback-playing" fill="currentColor" class="ColorScheme-Text" transform="translate(0 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M4 4c-1.11 0-2 .892-2 2v10c0 1.11.892 2 2 2h14c1.11 0 2-.892 2-2V6c0-1.11-.892-2-2-2zm4 3 6 4-6 4z"/>
+  </g>
+  <g id="22-22-media-playback-paused" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M26 4c-1.11 0-2 .892-2 2v10c0 1.11.892 2 2 2h14c1.11 0 2-.892 2-2V6c0-1.11-.892-2-2-2zm4 3h2v8h-2zm4 0h2v8h-2z" transform="translate(-22)"/>
+  </g>
+  <g id="22-22-media-playback-stopped" fill="currentColor" class="ColorScheme-Text" transform="translate(64 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M48 4c-1.11 0-2 .892-2 2v10c0 1.11.892 2 2 2h14c1.11 0 2-.892 2-2V6c0-1.11-.892-2-2-2zm3 3h8v8h-8z" transform="translate(-44)"/>
+  </g>
+  <g id="22-22-media-playback-start" fill="currentColor" class="ColorScheme-Text" transform="translate(96 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M7 4v14l11-7z"/>
+  </g>
+  <g id="22-22-media-playback-pause" fill="currentColor" class="ColorScheme-Text" transform="translate(128 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M5 18h4V4H5zm8-14v14h4V4z"/>
+  </g>
+  <g id="22-22-media-playback-stop" fill="currentColor" class="ColorScheme-Text" transform="translate(160 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M5 5h12v12H5z"/>
+  </g>
+  <g id="22-22-media-record" fill="#f28b82" transform="translate(192 32)">
+    <rect width="22" height="22" fill="none"/>
+    <circle cx="11" cy="11" r="8"/>
+  </g>
+  <g id="22-22-media-seek-backward" fill="currentColor" class="ColorScheme-Text" transform="translate(224 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M10 17V5l-8.5 6zm.5-6 8.5 6V5z"/>
+  </g>
+  <g id="22-22-media-seek-forward" fill="currentColor" class="ColorScheme-Text" transform="translate(256 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m3 17 8.5-6L3 5zm9-12v12l8.5-6z"/>
+  </g>
+  <g id="22-22-media-skip-backward" fill="currentColor" class="ColorScheme-Text" transform="translate(288 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M5 5h2v12H5zm3.5 6 8.5 6V5z"/>
+  </g>
+  <g id="22-22-media-skip-forward" fill="currentColor" class="ColorScheme-Text" transform="translate(320 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m5 17 8.5-6L5 5zM15 5v12h2V5z"/>
+  </g>
+  <g id="22-22-media-eject" fill="currentColor" class="ColorScheme-Text" transform="translate(352 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M4 16h14v2H4zm7-12L4.33 14h13.3z"/>
+  </g>
+  <g id="16-16-media-playback-start" fill="currentColor" class="ColorScheme-Text" transform="translate(96 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M4 1v14l11-7z"/>
+  </g>
+  <g id="16-16-media-playback-pause" fill="currentColor" class="ColorScheme-Text" transform="translate(128 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M2 15h4V1H2zm8-14v14h4V1z"/>
+  </g>
+  <g id="16-16-media-playback-stop" fill="currentColor" class="ColorScheme-Text" transform="translate(160 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M2 2h12v12H2z"/>
+  </g>
+  <g id="16-16-media-record" fill="#f28b82" transform="translate(192 54)">
+    <rect width="16" height="16" fill="none"/>
+    <circle cx="8" cy="8" r="8"/>
+  </g>
+  <g id="16-16-media-seek-backward" fill="currentColor" class="ColorScheme-Text" transform="translate(224 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M8 13V3L.5 8zm.5-5 7.5 5V3z"/>
+  </g>
+  <g id="16-16-media-seek-forward" fill="currentColor" class="ColorScheme-Text" transform="translate(256 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="m0 13 7.5-5L0 3zM8 3v10l7.5-5z"/>
+  </g>
+  <g id="16-16-media-skip-backward" fill="currentColor" class="ColorScheme-Text" transform="translate(288 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M2 2h2v12H2zm3.5 6 8.5 6V2z"/>
+  </g>
+  <g id="16-16-media-skip-forward" fill="currentColor" class="ColorScheme-Text" transform="translate(320 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="m2 14 8.5-6L2 2zM12 2v12h2V2z"/>
+  </g>
+  <g id="16-16-media-eject" fill="currentColor" class="ColorScheme-Text" transform="translate(352 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M1 13h14v2H1zM8 1 1.33 11h13.3z"/>
+  </g>
+</svg>

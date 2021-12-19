@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="48">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="normal-topleft" transform="translate(8 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-top" transform="translate(20 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-topright" transform="translate(32 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-left" transform="translate(8 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-center" transform="translate(20 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-right" transform="translate(32 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-bottomleft" transform="translate(8 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-bottom" transform="translate(20 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-bottomright" transform="translate(32 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="normal-hint-top-margin" transform="translate(23 8)">
+    <rect width="2" height="4" fill="#ed333b"/>
+  </g>
+  <g id="normal-hint-bottom-margin" transform="translate(23 36)">
+    <rect width="2" height="4" fill="#ed333b"/>
+  </g>
+  <g id="normal-hint-left-margin" transform="translate(8 23)">
+    <rect width="8" height="2" fill="#ed333b"/>
+  </g>
+  <g id="normal-hint-right-margin" transform="translate(32 23)">
+    <rect width="8" height="2" fill="#ed333b"/>
+  </g>
+  <g id="hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(60 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(72 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(48 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(60 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(72 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(48 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(60 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(72 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-hint-top-margin" transform="translate(63 8)">
+    <rect width="2" height="4" fill="#ed333b"/>
+  </g>
+  <g id="hover-hint-bottom-margin" transform="translate(63 36)">
+    <rect width="2" height="4" fill="#ed333b"/>
+  </g>
+  <g id="hover-hint-left-margin" transform="translate(48 23)">
+    <rect width="8" height="2" fill="#ed333b"/>
+  </g>
+  <g id="hover-hint-right-margin" transform="translate(72 23)">
+    <rect width="8" height="2" fill="#ed333b"/>
+  </g>
+  <g id="pressed-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 8)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-top" fill="currentColor" class="ColorScheme-Text" transform="translate(100 8)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 8)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-left" fill="currentColor" class="ColorScheme-Text" transform="translate(88 20)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-center" fill="currentColor" class="ColorScheme-Text" transform="translate(100 20)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-right" fill="currentColor" class="ColorScheme-Text" transform="translate(112 20)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 32)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(100 32)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 32)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-hint-top-margin" transform="translate(103 8)">
+    <rect width="2" height="4" fill="#ed333b"/>
+  </g>
+  <g id="pressed-hint-bottom-margin" transform="translate(103 36)">
+    <rect width="2" height="4" fill="#ed333b"/>
+  </g>
+  <g id="pressed-hint-left-margin" transform="translate(88 23)">
+    <rect width="8" height="2" fill="#ed333b"/>
+  </g>
+  <g id="pressed-hint-right-margin" transform="translate(112 23)">
+    <rect width="8" height="2" fill="#ed333b"/>
+  </g>
+</svg>

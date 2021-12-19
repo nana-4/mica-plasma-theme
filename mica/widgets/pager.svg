@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="3">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <rect id="hint-tile-center" width="1" height="1" x="15" y="0" fill="green"/>
+  <g id="normal-topleft" fill="currentColor" class="ColorScheme-Text">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-top" fill="currentColor" class="ColorScheme-Text" transform="translate(1)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(2)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-left" fill="currentColor" class="ColorScheme-Text" transform="translate(0 1)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-center" fill="currentColor" class="ColorScheme-Text" transform="translate(1 1)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-right" fill="currentColor" class="ColorScheme-Text" transform="translate(2 1)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(0 2)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(1 2)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="normal-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(2 2)">
+    <rect width="1" height="1" opacity=".12"/>
+  </g>
+  <g id="hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(3)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(4)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(5)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(3 1)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(4 1)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(5 1)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(3 2)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(4 2)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(5 2)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="active-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(6)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(7)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(6 1)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(7 1)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 1)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(6 2)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(7 2)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+  <g id="active-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 2)">
+    <rect width="1" height="1" opacity=".38"/>
+  </g>
+</svg>

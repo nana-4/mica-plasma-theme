@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="fill" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 8)">
+    <rect width="4" height="4" opacity=".3"/>
+  </g>
+  <g id="topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(4 4)">
+    <path d="M0 4V0h4z" opacity=".3"/>
+  </g>
+  <g id="topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(12 4)">
+    <path d="M0 0h4v4z" opacity=".3"/>
+  </g>
+  <g id="bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(4 12)">
+    <path d="M0 0v4h4z" opacity=".3"/>
+  </g>
+  <g id="bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(12 12)">
+    <path d="M0 4h4V0z" opacity=".3"/>
+  </g>
+</svg>

@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="108">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="Battery" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+  </g>
+  <g id="AcAdapter" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M17 11a5.008 5.008 0 0 0-4.58 3H10v4h2.43c.794 1.82 2.59 3 4.57 3v-1h4v-2h-4v-4h4v-2h-4z"/>
+  </g>
+  <g id="Unavailable" fill="currentColor" class="ColorScheme-Text" transform="translate(64)">
+    <rect width="32" height="32" fill="none"/>
+    <rect width="10" height="10" x="22" y="18" fill="#da4453" rx="1" ry="1"/>
+  </g>
+  <g id="battery-ups" fill="currentColor" class="ColorScheme-Text" transform="translate(96)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M7 4v24h18V4zm1 1h16v22H8zm8 2-3 7h3v4l3-7h-3zm-6 15v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm4.5 0a1.5 1.5 0 1 0 .001 3.001A1.5 1.5 0 0 0 20.5 22z"/>
+  </g>
+  <g id="Fill0" fill="currentColor" class="ColorScheme-Text" transform="translate(0 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+  </g>
+  <g id="Fill10" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h1l2 12H5z"/>
+  </g>
+  <g id="Fill20" fill="currentColor" class="ColorScheme-Text" transform="translate(64 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h3l2 12H5z"/>
+  </g>
+  <g id="Fill30" fill="currentColor" class="ColorScheme-Text" transform="translate(96 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h5l2 12H5z"/>
+  </g>
+  <g id="Fill40" fill="currentColor" class="ColorScheme-Text" transform="translate(128 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h9l2 12H5z"/>
+  </g>
+  <g id="Fill50" fill="currentColor" class="ColorScheme-Text" transform="translate(160 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h11l2 12H5z"/>
+  </g>
+  <g id="Fill60" fill="currentColor" class="ColorScheme-Text" transform="translate(192 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h13l2 12H5z"/>
+  </g>
+  <g id="Fill70" fill="currentColor" class="ColorScheme-Text" transform="translate(224 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h15l2 12H5z"/>
+  </g>
+  <g id="Fill80" fill="currentColor" class="ColorScheme-Text" transform="translate(256 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h17l2 12H5z"/>
+  </g>
+  <g id="Fill90" fill="currentColor" class="ColorScheme-Text" transform="translate(288 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <path d="M5 10h19l2 12H5z"/>
+  </g>
+  <g id="Fill100" fill="currentColor" class="ColorScheme-Text" transform="translate(320 32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3 8v16h25v-5c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1V8zm1 1h23v14H4z"/>
+    <rect width="21" height="12" x="5" y="10" class="ColorScheme-Text"/>
+  </g>
+  <g id="22-22-Battery" fill="currentColor" class="ColorScheme-Text" transform="translate(0 64)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v14H8z"/>
+  </g>
+  <g id="22-22-AcAdapter" fill="currentColor" class="ColorScheme-Highlight" transform="translate(22 64)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m12 6-4 7.5h2V19l4-7.5h-2z"/>
+  </g>
+  <g id="22-22-Unavailable" fill="currentColor" class="ColorScheme-Text" transform="translate(44 64)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m17.1 16-1.06 1.06L17.98 19l-1.94 1.94L17.1 22l1.94-1.94L20.98 22l1.06-1.06L20.1 19l1.94-1.94L20.98 16l-1.94 1.94z"/>
+  </g>
+  <g id="22-22-battery-ups" fill="currentColor" class="ColorScheme-Text" transform="translate(66 64)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M15 3h-2V1H9v2H7c-.55 0-1 .45-1 1v16c0 .55.45 1 1 1h8c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1zm-1 10h-2v2h-2v-2H8v-2h2V9h2v2h2z"/>
+  </g>
+  <g id="22-22-Fill0" fill="currentColor" class="ColorScheme-Text" transform="translate(0 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v14H8z"/>
+  </g>
+  <g id="22-22-Fill10" fill="currentColor" class="ColorScheme-Text" transform="translate(22 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v12H8z"/>
+  </g>
+  <g id="22-22-Fill20" fill="currentColor" class="ColorScheme-Text" transform="translate(44 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v11H8z"/>
+  </g>
+  <g id="22-22-Fill30" fill="currentColor" class="ColorScheme-Text" transform="translate(66 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v10H8z"/>
+  </g>
+  <g id="22-22-Fill40" fill="currentColor" class="ColorScheme-Text" transform="translate(88 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v9H8z"/>
+  </g>
+  <g id="22-22-Fill50" fill="currentColor" class="ColorScheme-Text" transform="translate(110 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v7H8z"/>
+  </g>
+  <g id="22-22-Fill60" fill="currentColor" class="ColorScheme-Text" transform="translate(132 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v5H8z"/>
+  </g>
+  <g id="22-22-Fill70" fill="currentColor" class="ColorScheme-Text" transform="translate(154 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v4H8z"/>
+  </g>
+  <g id="22-22-Fill80" fill="currentColor" class="ColorScheme-Text" transform="translate(176 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v3H8z"/>
+  </g>
+  <g id="22-22-Fill90" fill="currentColor" class="ColorScheme-Text" transform="translate(198 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 1v2H7.33C6.6 3 6 3.6 6 4.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33H13v-2zM8 5h6v2H8z"/>
+  </g>
+  <g id="22-22-Fill100" fill="currentColor" class="ColorScheme-Text" transform="translate(220 86)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M14.7 3h-1.67V1h-4v2H7.36c-.73 0-1.33.6-1.33 1.33v15.3c0 .74.6 1.34 1.33 1.34h7.33c.74 0 1.34-.6 1.34-1.33V4.34c0-.73-.6-1.33-1.33-1.33z"/>
+  </g>
+</svg>

@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="72">
+  <defs>
+    <linearGradient id="Gradient">
+      <stop offset=".33" stop-opacity=".24"/>
+      <stop offset=".66" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="Gradient" id="def-shadow-top" x1="0" y1="18" x2="0" y2="6" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-bottom" x1="0" y1="2" x2="0" y2="14" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-left" x1="16" y1="0" x2="4" y2="0" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-right" x1="0" y1="0" x2="12" y2="0" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-topleft" cx="16" cy="18" r="12" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-topright" cx="0" cy="18" r="12" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-bottomleft" cx="16" cy="2" r="12" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="Gradient" id="def-shadow-bottomright" cx="0" cy="2" r="12" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Background{color:#f8f9fa}
+  </style>
+  <g id="hint-stretch-borders" fill="#0f0" transform="translate(136 8)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="topleft" fill="currentColor" class="ColorScheme-Background" transform="translate(8 8)">
+    <path d="M0 0v16h8a8 8 0 0 1 8-8V0z" fill="url(#def-shadow-topleft)"/>
+    <path d="M16 8a8 8 0 0 0-8 8h8z" opacity=".8"/>
+  </g>
+  <g id="top" fill="currentColor" class="ColorScheme-Background" transform="translate(28 8)">
+    <rect width="16" height="8" fill="url(#def-shadow-top)"/>
+    <rect width="16" height="8" y="8" opacity=".8"/>
+  </g>
+  <g id="topright" fill="currentColor" class="ColorScheme-Background" transform="translate(48 8)">
+    <path d="M0 0v8a8 8 0 0 1 8 8h8V0z" fill="url(#def-shadow-topright)"/>
+    <path d="M0 8v8h8a8 8 0 0 0-8-8z" opacity=".8"/>
+  </g>
+  <g id="left" fill="currentColor" class="ColorScheme-Background" transform="translate(8 28)">
+    <rect width="8" height="16" fill="url(#def-shadow-left)"/>
+    <rect width="8" height="16" x="8" opacity=".8"/>
+  </g>
+  <g id="center" fill="currentColor" class="ColorScheme-Background" transform="translate(28 28)">
+    <rect width="16" height="16" opacity=".8"/>
+  </g>
+  <g id="right" fill="currentColor" class="ColorScheme-Background" transform="translate(48 28)">
+    <rect width="8" height="16" x="8" fill="url(#def-shadow-right)"/>
+    <rect width="8" height="16" opacity=".8"/>
+  </g>
+  <g id="bottomleft" fill="currentColor" class="ColorScheme-Background" transform="translate(8 48)">
+    <path d="M0 0v16h16V8a8 8 0 0 1-8-8z" fill="url(#def-shadow-bottomleft)"/>
+    <path d="M8 0a8 8 0 0 0 8 8V0z" opacity=".8"/>
+  </g>
+  <g id="bottom" fill="currentColor" class="ColorScheme-Background" transform="translate(28 48)">
+    <rect width="16" height="8" y="8" fill="url(#def-shadow-bottom)"/>
+    <rect width="16" height="8" opacity=".8"/>
+  </g>
+  <g id="bottomright" fill="currentColor" class="ColorScheme-Background" transform="translate(48 48)">
+    <path d="M8 0a8 8 0 0 1-8 8v8h16V0z" fill="url(#def-shadow-bottomright)"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".8"/>
+  </g>
+  <g id="hint-top-margin" fill="#0f0" transform="translate(33 8)">
+    <rect width="2" height="14"/>
+  </g>
+  <g id="hint-bottom-margin" fill="#0f0" transform="translate(33 50)">
+    <rect width="2" height="14"/>
+  </g>
+  <g id="hint-left-margin" fill="#0f0" transform="translate(8 33)">
+    <rect width="14" height="2"/>
+  </g>
+  <g id="hint-right-margin" fill="#0f0" transform="translate(50 33)">
+    <rect width="14" height="2"/>
+  </g>
+  <g id="hint-top-inset" fill="#f0f" transform="translate(37 8)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="hint-bottom-inset" fill="#f0f" transform="translate(37 56)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="hint-left-inset" fill="#f0f" transform="translate(8 37)">
+    <rect width="8" height="2"/>
+  </g>
+  <g id="hint-right-inset" fill="#f0f" transform="translate(56 37)">
+    <rect width="8" height="2"/>
+  </g>
+  <g id="shadow-topleft" transform="translate(72 8)">
+    <path d="M0 0v16h8a8 8 0 0 1 8-8V0z" fill="url(#def-shadow-topleft)"/>
+    <path d="M16 8a8 8 0 0 0-8 8h8z" fill="none"/>
+  </g>
+  <g id="shadow-top" transform="translate(92 8)">
+    <rect width="16" height="8" fill="url(#def-shadow-top)"/>
+    <rect width="16" height="8" y="8" fill="none"/>
+  </g>
+  <g id="shadow-topright" transform="translate(112 8)">
+    <path d="M0 0v8a8 8 0 0 1 8 8h8V0z" fill="url(#def-shadow-topright)"/>
+    <path d="M0 8v8h8a8 8 0 0 0-8-8z" fill="none"/>
+  </g>
+  <g id="shadow-left" transform="translate(72 28)">
+    <rect width="8" height="16" fill="url(#def-shadow-left)"/>
+    <rect width="8" height="16" x="8" fill="none"/>
+  </g>
+  <g id="shadow-center" transform="translate(92 28)">
+    <rect width="16" height="16" fill="none"/>
+  </g>
+  <g id="shadow-right" transform="translate(112 28)">
+    <rect width="8" height="16" x="8" fill="url(#def-shadow-right)"/>
+    <rect width="8" height="16" fill="none"/>
+  </g>
+  <g id="shadow-bottomleft" transform="translate(72 48)">
+    <path d="M0 0v16h16V8a8 8 0 0 1-8-8z" fill="url(#def-shadow-bottomleft)"/>
+    <path d="M8 0a8 8 0 0 0 8 8V0z" fill="none"/>
+  </g>
+  <g id="shadow-bottom" transform="translate(92 48)">
+    <rect width="16" height="8" y="8" fill="url(#def-shadow-bottom)"/>
+    <rect width="16" height="8" fill="none"/>
+  </g>
+  <g id="shadow-bottomright" transform="translate(112 48)">
+    <path d="M8 0a8 8 0 0 1-8 8v8h16V0z" fill="url(#def-shadow-bottomright)"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="none"/>
+  </g>
+  <g id="shadow-hint-top-margin" fill="#0f0" transform="translate(97 8)">
+    <rect width="2" height="14"/>
+  </g>
+  <g id="shadow-hint-bottom-margin" fill="#0f0" transform="translate(97 50)">
+    <rect width="2" height="14"/>
+  </g>
+  <g id="shadow-hint-left-margin" fill="#0f0" transform="translate(72 33)">
+    <rect width="14" height="2"/>
+  </g>
+  <g id="shadow-hint-right-margin" fill="#0f0" transform="translate(114 33)">
+    <rect width="14" height="2"/>
+  </g>
+  <g id="shadow-hint-top-inset" fill="#f0f" transform="translate(101 8)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="shadow-hint-bottom-inset" fill="#f0f" transform="translate(101 56)">
+    <rect width="2" height="8"/>
+  </g>
+  <g id="shadow-hint-left-inset" fill="#f0f" transform="translate(72 37)">
+    <rect width="8" height="2"/>
+  </g>
+  <g id="shadow-hint-right-inset" fill="#f0f" transform="translate(120 37)">
+    <rect width="8" height="2"/>
+  </g>
+</svg>

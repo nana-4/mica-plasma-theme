@@ -1,0 +1,411 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="100">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Background{color:#f8f9fa}
+    .ColorScheme-Text{color:#202124}
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="normal-hint-compose-over-border" fill="#0f0" transform="translate(88 88)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="pressed-hint-compose-over-border" fill="#0f0" transform="translate(168 88)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="mask-normal-topleft" transform="translate(8 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z"/>
+  </g>
+  <g id="mask-normal-top" transform="translate(20 8)">
+    <rect width="8" height="8"/>
+  </g>
+  <g id="mask-normal-topright" transform="translate(32 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z"/>
+  </g>
+  <g id="mask-normal-left" transform="translate(8 20)">
+    <rect width="8" height="8"/>
+  </g>
+  <g id="mask-normal-center" transform="translate(20 20)">
+    <rect width="8" height="8"/>
+  </g>
+  <g id="mask-normal-right" transform="translate(32 20)">
+    <rect width="8" height="8"/>
+  </g>
+  <g id="mask-normal-bottomleft" transform="translate(8 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z"/>
+  </g>
+  <g id="mask-normal-bottom" transform="translate(20 32)">
+    <rect width="8" height="8"/>
+  </g>
+  <g id="mask-normal-bottomright" transform="translate(32 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z"/>
+  </g>
+  <g id="shadow-topleft" transform="translate(48 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" fill="none"/>
+  </g>
+  <g id="shadow-top" transform="translate(60 8)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="shadow-topright" transform="translate(72 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" fill="none"/>
+  </g>
+  <g id="shadow-left" transform="translate(48 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="shadow-center" transform="translate(60 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="shadow-right" transform="translate(72 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="shadow-bottomleft" transform="translate(48 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" fill="none"/>
+  </g>
+  <g id="shadow-bottom" transform="translate(60 32)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="shadow-bottomright" transform="translate(72 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="none"/>
+  </g>
+  <g id="shadow-hint-top-margin" fill="#f0f" transform="translate(63 8)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="shadow-hint-bottom-margin" fill="#f0f" transform="translate(63 40)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="shadow-hint-left-margin" fill="#f0f" transform="translate(48 23)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="shadow-hint-right-margin" fill="#f0f" transform="translate(80 23)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="normal-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" fill="#fff" opacity=".12"/>
+    <path d="M8 0a8 8 0 0 0-8 8h1a7 7 0 0 1 7-7z" opacity=".38"/>
+  </g>
+  <g id="normal-top" fill="currentColor" class="ColorScheme-Text" transform="translate(100 8)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="8" height="1" opacity=".38"/>
+  </g>
+  <g id="normal-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" fill="#fff" opacity=".12"/>
+    <path d="M0 0v1a7 7 0 0 1 7 7h1a8 8 0 0 0-8-8z" opacity=".38"/>
+  </g>
+  <g id="normal-left" fill="currentColor" class="ColorScheme-Text" transform="translate(88 20)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="1" height="8" opacity=".38"/>
+  </g>
+  <g id="normal-center" fill="currentColor" class="ColorScheme-Text" transform="translate(100 20)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+  </g>
+  <g id="normal-right" fill="currentColor" class="ColorScheme-Text" transform="translate(112 20)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="1" height="8" x="7" opacity=".38"/>
+  </g>
+  <g id="normal-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(88 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" fill="#fff" opacity=".12"/>
+    <path d="M0 0a8 8 0 0 0 8 8V7a7 7 0 0 1-7-7z" opacity=".38"/>
+  </g>
+  <g id="normal-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(100 32)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="8" height="1" y="7" opacity=".38"/>
+  </g>
+  <g id="normal-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(112 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="#fff" opacity=".12"/>
+    <path d="M7 0a7 7 0 0 1-7 7v1a8 8 0 0 0 8-8z" opacity=".38"/>
+  </g>
+  <g id="normal-hint-top-margin" fill="#f0f" transform="translate(103 8)">
+    <rect width="2" height="6"/>
+  </g>
+  <g id="normal-hint-bottom-margin" fill="#f0f" transform="translate(103 34)">
+    <rect width="2" height="6"/>
+  </g>
+  <g id="normal-hint-left-margin" fill="#f0f" transform="translate(88 23)">
+    <rect width="6" height="2"/>
+  </g>
+  <g id="normal-hint-right-margin" fill="#f0f" transform="translate(114 23)">
+    <rect width="6" height="2"/>
+  </g>
+  <g id="hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(128 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".08"/>
+  </g>
+  <g id="hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(140 8)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(152 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".08"/>
+  </g>
+  <g id="hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(128 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(140 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(152 20)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(128 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".08"/>
+  </g>
+  <g id="hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(140 32)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(152 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".08"/>
+  </g>
+  <g id="hover-hint-top-margin" fill="#f0f" transform="translate(143 8)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="hover-hint-bottom-margin" fill="#f0f" transform="translate(143 40)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="hover-hint-left-margin" fill="#f0f" transform="translate(128 23)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="hover-hint-right-margin" fill="#f0f" transform="translate(160 23)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="pressed-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(168 8)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" fill="#fff" opacity=".12"/>
+    <path d="M8 0a8 8 0 0 0-8 8h1a7 7 0 0 1 7-7z" opacity=".38"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".16"/>
+  </g>
+  <g id="pressed-top" fill="currentColor" class="ColorScheme-Text" transform="translate(180 8)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="8" height="1" opacity=".38"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(192 8)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" fill="#fff" opacity=".12"/>
+    <path d="M0 0v1a7 7 0 0 1 7 7h1a8 8 0 0 0-8-8z" opacity=".38"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".16"/>
+  </g>
+  <g id="pressed-left" fill="currentColor" class="ColorScheme-Text" transform="translate(168 20)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="1" height="8" opacity=".38"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-center" fill="currentColor" class="ColorScheme-Text" transform="translate(180 20)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-right" fill="currentColor" class="ColorScheme-Text" transform="translate(192 20)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="1" height="8" x="7" opacity=".38"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(168 32)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" fill="#fff" opacity=".12"/>
+    <path d="M0 0a8 8 0 0 0 8 8V7a7 7 0 0 1-7-7z" opacity=".38"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".16"/>
+  </g>
+  <g id="pressed-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(180 32)">
+    <rect width="8" height="8" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
+    <rect width="8" height="1" y="7" opacity=".38"/>
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="pressed-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(192 32)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="currentColor" class="ColorScheme-Background" opacity=".8"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="#fff" opacity=".12"/>
+    <path d="M7 0a7 7 0 0 1-7 7v1a8 8 0 0 0 8-8z" opacity=".38"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".16"/>
+  </g>
+  <g id="pressed-hint-top-margin" fill="#f0f" transform="translate(183 8)">
+    <rect width="2" height="6"/>
+  </g>
+  <g id="pressed-hint-bottom-margin" fill="#f0f" transform="translate(183 34)">
+    <rect width="2" height="6"/>
+  </g>
+  <g id="pressed-hint-left-margin" fill="#f0f" transform="translate(168 23)">
+    <rect width="6" height="2"/>
+  </g>
+  <g id="pressed-hint-right-margin" fill="#f0f" transform="translate(194 23)">
+    <rect width="6" height="2"/>
+  </g>
+  <g id="focus-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(208 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M8 0a8 8 0 0 0-8 8h2a6 6 0 0 1 6-6z"/>
+  </g>
+  <g id="focus-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(220 8)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="2"/>
+  </g>
+  <g id="focus-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(232 8)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v2a6 6 0 0 1 6 6h2a8 8 0 0 0-8-8z"/>
+  </g>
+  <g id="focus-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(208 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="2" height="8"/>
+  </g>
+  <g id="focus-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(220 20)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="focus-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(232 20)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="2" height="8" x="6"/>
+  </g>
+  <g id="focus-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(208 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0a8 8 0 0 0 8 8V6a6 6 0 0 1-6-6z"/>
+  </g>
+  <g id="focus-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(220 32)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="2" y="6"/>
+  </g>
+  <g id="focus-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(232 32)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M6 0a6 6 0 0 1-6 6v2a8 8 0 0 0 8-8z"/>
+  </g>
+  <g id="focus-hint-top-margin" fill="#f0f" transform="translate(223 8)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="focus-hint-bottom-margin" fill="#f0f" transform="translate(223 40)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="focus-hint-left-margin" fill="#f0f" transform="translate(208 23)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="focus-hint-right-margin" fill="#f0f" transform="translate(240 23)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="toolbutton-hover-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(128 48)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-top" fill="currentColor" class="ColorScheme-Text" transform="translate(140 48)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(152 48)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-left" fill="currentColor" class="ColorScheme-Text" transform="translate(128 60)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-center" fill="currentColor" class="ColorScheme-Text" transform="translate(140 60)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-right" fill="currentColor" class="ColorScheme-Text" transform="translate(152 60)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(128 72)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(140 72)">
+    <rect width="8" height="8" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(152 72)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".08"/>
+  </g>
+  <g id="toolbutton-hover-hint-top-margin" fill="#f0f" transform="translate(143 48)">
+    <rect width="2" height="5"/>
+  </g>
+  <g id="toolbutton-hover-hint-bottom-margin" fill="#f0f" transform="translate(143 75)">
+    <rect width="2" height="5"/>
+  </g>
+  <g id="toolbutton-hover-hint-left-margin" fill="#f0f" transform="translate(128 63)">
+    <rect width="5" height="2"/>
+  </g>
+  <g id="toolbutton-hover-hint-right-margin" fill="#f0f" transform="translate(155 63)">
+    <rect width="5" height="2"/>
+  </g>
+  <g id="toolbutton-pressed-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(168 48)">
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-top" fill="currentColor" class="ColorScheme-Text" transform="translate(180 48)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(192 48)">
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-left" fill="currentColor" class="ColorScheme-Text" transform="translate(168 60)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-center" fill="currentColor" class="ColorScheme-Text" transform="translate(180 60)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-right" fill="currentColor" class="ColorScheme-Text" transform="translate(192 60)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(168 72)">
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(180 72)">
+    <rect width="8" height="8" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(192 72)">
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".16"/>
+  </g>
+  <g id="toolbutton-pressed-hint-top-margin" fill="#f0f" transform="translate(183 48)">
+    <rect width="2" height="5"/>
+  </g>
+  <g id="toolbutton-pressed-hint-bottom-margin" fill="#f0f" transform="translate(183 75)">
+    <rect width="2" height="5"/>
+  </g>
+  <g id="toolbutton-pressed-hint-left-margin" fill="#f0f" transform="translate(168 63)">
+    <rect width="5" height="2"/>
+  </g>
+  <g id="toolbutton-pressed-hint-right-margin" fill="#f0f" transform="translate(195 63)">
+    <rect width="5" height="2"/>
+  </g>
+  <g id="toolbutton-focus-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(208 48)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M8 0a8 8 0 0 0-8 8h2a6 6 0 0 1 6-6z"/>
+  </g>
+  <g id="toolbutton-focus-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(220 48)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="2"/>
+  </g>
+  <g id="toolbutton-focus-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(232 48)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0v2a6 6 0 0 1 6 6h2a8 8 0 0 0-8-8z"/>
+  </g>
+  <g id="toolbutton-focus-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(208 60)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="2" height="8"/>
+  </g>
+  <g id="toolbutton-focus-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(220 60)">
+    <rect width="8" height="8" fill="none"/>
+  </g>
+  <g id="toolbutton-focus-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(232 60)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="2" height="8" x="6"/>
+  </g>
+  <g id="toolbutton-focus-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(208 72)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M0 0a8 8 0 0 0 8 8V6a6 6 0 0 1-6-6z"/>
+  </g>
+  <g id="toolbutton-focus-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(220 72)">
+    <rect width="8" height="8" fill="none"/>
+    <rect width="8" height="2" y="6"/>
+  </g>
+  <g id="toolbutton-focus-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(232 72)">
+    <rect width="8" height="8" fill="none"/>
+    <path d="M6 0a6 6 0 0 1-6 6v2a8 8 0 0 0 8-8z"/>
+  </g>
+  <g id="toolbutton-focus-hint-top-margin" fill="#f0f" transform="translate(223 48)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="toolbutton-focus-hint-bottom-margin" fill="#f0f" transform="translate(223 80)">
+    <rect width="2" height=".001"/>
+  </g>
+  <g id="toolbutton-focus-hint-left-margin" fill="#f0f" transform="translate(208 63)">
+    <rect width=".001" height="2"/>
+  </g>
+  <g id="toolbutton-focus-hint-right-margin" fill="#f0f" transform="translate(240 63)">
+    <rect width=".001" height="2"/>
+  </g>
+</svg>

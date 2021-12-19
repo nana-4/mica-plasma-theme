@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="84">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <rect id="hint-tile-center" width="4" height="4" x="312" y="8" fill="green"/>
+  <g id="north-active-tab-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M20 4A16 16 0 0 0 4 20h16z" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-top" fill="currentColor" class="ColorScheme-Text" transform="translate(32 8)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" y="4" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(56 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 4v16h16A16 16 0 0 0 0 4z" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-left" fill="currentColor" class="ColorScheme-Text" transform="translate(8 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" x="4" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-center" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="20" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-right" fill="currentColor" class="ColorScheme-Text" transform="translate(56 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(8 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M4 0a16 16 0 0 0 16 16V0z" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(32 56)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" opacity=".16"/>
+  </g>
+  <g id="north-active-tab-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(56 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 0v16A16 16 0 0 0 16 0z" opacity=".16"/>
+  </g>
+  <rect id="north-active-tab-hint-top-margin" width="4" height="10" x="40" y="8" fill="#4e9a06"/>
+  <rect id="north-active-tab-hint-bottom-margin" width="4" height="10" x="40" y="66" fill="#4e9a06"/>
+  <rect id="north-active-tab-hint-left-margin" width="16" height="4" x="8" y="40" fill="#4e9a06"/>
+  <rect id="north-active-tab-hint-right-margin" width="16" height="4" x="60" y="40" fill="#4e9a06"/>
+  <g id="south-active-tab-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(84 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M20 4A16 16 0 0 0 4 20h16z" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-top" fill="currentColor" class="ColorScheme-Text" transform="translate(108 8)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" y="4" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(132 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 4v16h16A16 16 0 0 0 0 4z" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-left" fill="currentColor" class="ColorScheme-Text" transform="translate(84 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" x="4" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-center" fill="currentColor" class="ColorScheme-Text" transform="translate(108 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="20" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-right" fill="currentColor" class="ColorScheme-Text" transform="translate(132 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(84 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M4 0a16 16 0 0 0 16 16V0z" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(108 56)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" opacity=".16"/>
+  </g>
+  <g id="south-active-tab-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(132 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 0v16A16 16 0 0 0 16 0z" opacity=".16"/>
+  </g>
+  <rect id="south-active-tab-hint-top-margin" width="4" height="10" x="116" y="8" fill="#4e9a06"/>
+  <rect id="south-active-tab-hint-bottom-margin" width="4" height="10" x="116" y="66" fill="#4e9a06"/>
+  <rect id="south-active-tab-hint-left-margin" width="16" height="4" x="84" y="40" fill="#4e9a06"/>
+  <rect id="south-active-tab-hint-right-margin" width="16" height="4" x="136" y="40" fill="#4e9a06"/>
+  <g id="west-active-tab-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(160 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M20 4A16 16 0 0 0 4 20h16z" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-top" fill="currentColor" class="ColorScheme-Text" transform="translate(184 8)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" y="4" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(208 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 4v16h16A16 16 0 0 0 0 4z" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-left" fill="currentColor" class="ColorScheme-Text" transform="translate(160 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" x="4" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-center" fill="currentColor" class="ColorScheme-Text" transform="translate(184 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="20" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-right" fill="currentColor" class="ColorScheme-Text" transform="translate(208 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(160 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M4 0a16 16 0 0 0 16 16V0z" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(184 56)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" opacity=".16"/>
+  </g>
+  <g id="west-active-tab-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(208 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 0v16A16 16 0 0 0 16 0z" opacity=".16"/>
+  </g>
+  <rect id="west-active-tab-hint-top-margin" width="4" height="10" x="192" y="8" fill="#4e9a06"/>
+  <rect id="west-active-tab-hint-bottom-margin" width="4" height="10" x="192" y="66" fill="#4e9a06"/>
+  <rect id="west-active-tab-hint-left-margin" width="16" height="4" x="160" y="40" fill="#4e9a06"/>
+  <rect id="west-active-tab-hint-right-margin" width="16" height="4" x="212" y="40" fill="#4e9a06"/>
+  <g id="east-active-tab-topleft" fill="currentColor" class="ColorScheme-Text" transform="translate(236 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M20 4A16 16 0 0 0 4 20h16z" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-top" fill="currentColor" class="ColorScheme-Text" transform="translate(260 8)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" y="4" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-topright" fill="currentColor" class="ColorScheme-Text" transform="translate(284 8)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 4v16h16A16 16 0 0 0 0 4z" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-left" fill="currentColor" class="ColorScheme-Text" transform="translate(236 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" x="4" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-center" fill="currentColor" class="ColorScheme-Text" transform="translate(260 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="20" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-right" fill="currentColor" class="ColorScheme-Text" transform="translate(284 32)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="16" height="20" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-bottomleft" fill="currentColor" class="ColorScheme-Text" transform="translate(236 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M4 0a16 16 0 0 0 16 16V0z" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-bottom" fill="currentColor" class="ColorScheme-Text" transform="translate(260 56)">
+    <rect width="20" height="20" fill="none"/>
+    <rect width="20" height="16" opacity=".16"/>
+  </g>
+  <g id="east-active-tab-bottomright" fill="currentColor" class="ColorScheme-Text" transform="translate(284 56)">
+    <rect width="20" height="20" fill="none"/>
+    <path d="M0 0v16A16 16 0 0 0 16 0z" opacity=".16"/>
+  </g>
+  <rect id="east-active-tab-hint-top-margin" width="4" height="10" x="268" y="8" fill="#4e9a06"/>
+  <rect id="east-active-tab-hint-bottom-margin" width="4" height="10" x="268" y="66" fill="#4e9a06"/>
+  <rect id="east-active-tab-hint-left-margin" width="16" height="4" x="236" y="40" fill="#4e9a06"/>
+  <rect id="east-active-tab-hint-right-margin" width="16" height="4" x="288" y="40" fill="#4e9a06"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3" height="1">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#31363b}
+  </style>
+  <g id="vertical-line" fill="currentColor" class="ColorScheme-Text">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+  <g id="horizontal-line" fill="currentColor" class="ColorScheme-Text" transform="translate(2)">
+    <rect width="1" height="1" opacity=".2"/>
+  </g>
+</svg>

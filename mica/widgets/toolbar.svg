@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Background{color:#f8f9fa}
+  </style>
+  <rect id="hint-tile-center" width="2" height="2" x="-2" y="-2" fill="#4e9a06"/>
+  <g id="topleft" fill="currentColor" class="ColorScheme-Background">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="top" fill="currentColor" class="ColorScheme-Background" transform="translate(4)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="topright" fill="currentColor" class="ColorScheme-Background" transform="translate(8)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="left" fill="currentColor" class="ColorScheme-Background" transform="translate(0 4)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="center" fill="currentColor" class="ColorScheme-Background" transform="translate(4 4)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="right" fill="currentColor" class="ColorScheme-Background" transform="translate(8 4)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="bottomleft" fill="currentColor" class="ColorScheme-Background" transform="translate(0 8)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="bottom" fill="currentColor" class="ColorScheme-Background" transform="translate(4 8)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="bottomright" fill="currentColor" class="ColorScheme-Background" transform="translate(8 8)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="hint-top-margin" fill="#00f" transform="translate(5)">
+    <rect width="2" height="4"/>
+  </g>
+  <g id="hint-bottom-margin" fill="#00f" transform="translate(5 8)">
+    <rect width="2" height="4"/>
+  </g>
+  <g id="hint-left-margin" fill="#00f" transform="translate(0 5)">
+    <rect width="4" height="2"/>
+  </g>
+  <g id="hint-right-margin" fill="#00f" transform="translate(8 5)">
+    <rect width="4" height="2"/>
+  </g>
+</svg>

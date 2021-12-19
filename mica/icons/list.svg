@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="38">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="list-add" fill="currentColor" class="ColorScheme-Text">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18 12h-6v6h-2v-6H4v-2h6V4h2v6h6z"/>
+  </g>
+  <g id="list-remove" fill="currentColor" class="ColorScheme-Text" transform="translate(22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18 12H4v-2h14z"/>
+  </g>
+  <g id="16-16-list-add" fill="currentColor" class="ColorScheme-Text" transform="translate(0 22)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M7 2v5H2v2h5v5h2V9h5V7H9V2z"/>
+  </g>
+  <g id="16-16-list-remove" fill="currentColor" class="ColorScheme-Text" transform="translate(22 22)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M2 7h12v2H2z"/>
+  </g>
+</svg>

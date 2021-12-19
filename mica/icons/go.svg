@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="22">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="go-home" fill="currentColor" class="ColorScheme-Text">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M9 18v-5h4v5h4v-7h3l-9-8-9 8h3v7z"/>
+  </g>
+  <g id="go-up" fill="currentColor" class="ColorScheme-Text" transform="translate(22)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m4 11 1.41 1.41L10 7.83v10.2h2V7.83l4.58 4.59L18 11l-7-7z"/>
+  </g>
+  <g id="go-down" fill="currentColor" class="ColorScheme-Text" transform="translate(44)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="m18 11-1.41-1.41L12 14.17V3.97h-2v10.2L5.42 9.58 4 11l7 7z"/>
+  </g>
+  <g id="go-previous" fill="currentColor" class="ColorScheme-Text" transform="translate(66)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18 10H7.8l4.59-4.59L10.97 4l-7 7 7 7 1.41-1.41L7.8 12H18z"/>
+  </g>
+  <g id="go-next" fill="currentColor" class="ColorScheme-Text" transform="translate(88)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M11 4 9.59 5.41 14.17 10H3.97v2h10.2l-4.58 4.59L11 18l7-7z"/>
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="216">
+  <defs>
+    <radialGradient id="shadow" cx="108" cy="110" r="106" gradientUnits="userSpaceOnUse">
+      <stop offset=".9" stop-opacity=".5"/>
+      <stop offset=".96" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Background{color:#eff0f1}
+    .ColorScheme-Text{color:#202124}
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="ClockFace" fill="currentColor" class="ColorScheme-Text">
+    <rect width="216" height="216" fill="url(#shadow)"/>
+    <circle cx="108" cy="108" r="100" fill="currentColor" class="ColorScheme-Background"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(6 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(12 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(18 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(24 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(30 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(36 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(42 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(48 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(54 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(60 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(66 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(72 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(78 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(84 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(90 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(96 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(102 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(108 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(114 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(120 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(126 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(132 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(138 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(144 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(150 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(156 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(162 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(168 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(174 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(180 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(186 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(192 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(198 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(204 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(210 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(216 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(222 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(228 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(234 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(240 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(246 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(252 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(258 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(264 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(270 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(276 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(282 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(288 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(294 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(300 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(306 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(312 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(318 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(324 108 108)"/>
+    <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38" transform="rotate(330 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(336 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(342 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(348 108 108)"/>
+    <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(354 108 108)"/>
+  </g>
+  <g id="HourHand" fill="currentColor" class="ColorScheme-Text" transform="translate(216)">
+    <rect width="18" height="64" fill="none"/>
+    <rect x="7" y="7" width="4" height="50" rx="2"/>
+  </g>
+  <g id="MinuteHand" fill="currentColor" class="ColorScheme-Text" transform="translate(256)">
+    <rect width="12" height="85" fill="none"/>
+    <rect x="4" y="4" width="4" height="77" rx="2" opacity=".75"/>
+  </g>
+  <g id="SecondHand" fill="currentColor" class="ColorScheme-Highlight" transform="translate(319)">
+    <rect width="8" height="81" fill="none"/>
+    <rect x="3" y="3" width="2" height="78" rx="1"/>
+  </g>
+  <g id="HourHandShadow" transform="translate(236)">
+    <rect width="18" height="64" fill="none"/>
+  </g>
+  <g id="MinuteHandShadow" transform="translate(276)">
+    <rect width="8" height="100" fill="none"/>
+  </g>
+  <g id="SecondHandShadow" transform="translate(400)">
+    <rect width="6" height="82" fill="none"/>
+  </g>
+  <g id="HandCenterScrew" transform="translate(251 100)">
+    <circle cx="2" cy="2" r="2" fill="none"/>
+  </g>
+  <g id="Glass" transform="translate(0 216)">
+    <rect width="216" height="216" fill="none"/>
+  </g>
+  <g id="hint-hands-shadow-offset-to-south" fill="green" transform="translate(268 126)">
+    <rect width="4" height="2"/>
+  </g>
+</svg>

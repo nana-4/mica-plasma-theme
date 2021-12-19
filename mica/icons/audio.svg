@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="70">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="audio-volume-high" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M7 13v6h4l5 5V8l-5 5zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM18 7.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+  </g>
+  <g id="audio-volume-medium" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M20.5 16a4.5 4.5 0 0 0-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM7 13v6h4l5 5V8l-5 5z"/>
+  </g>
+  <g id="audio-volume-low" fill="currentColor" class="ColorScheme-Text" transform="translate(64)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M7 13v6h4l5 5V8l-5 5z"/>
+  </g>
+  <g id="audio-volume-muted" fill="currentColor" class="ColorScheme-Text" transform="translate(96)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M20.5 16a4.5 4.5 0 0 0-2.5-4.03v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51A8.796 8.796 0 0 0 25 16c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM8.3 7 7.03 8.27 11.76 13H7.03v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06a8.99 8.99 0 0 0 3.69-1.81L23.76 25l1.27-1.27-9-9zm7.73 1-2.09 2.09 2.09 2.09z"/>
+  </g>
+  <g id="22-22-audio-volume-high" fill="currentColor" class="ColorScheme-Text" transform="translate(0 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M2 8v6h4l5 5V3L6 8zm13.5 3A4.5 4.5 0 0 0 13 6.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM13 2.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+  </g>
+  <g id="22-22-audio-volume-medium" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M15.5 11A4.5 4.5 0 0 0 13 6.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM2 8v6h4l5 5V3L6 8z"/>
+  </g>
+  <g id="22-22-audio-volume-low" fill="currentColor" class="ColorScheme-Text" transform="translate(64 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M2 8v6h4l5 5V3L6 8z"/>
+  </g>
+  <g id="22-22-audio-volume-muted" fill="currentColor" class="ColorScheme-Text" transform="translate(96 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M15.5 11A4.5 4.5 0 0 0 13 6.97v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51A8.796 8.796 0 0 0 20 11c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM3.3 2 2.03 3.27 6.76 8H2.03v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06a8.99 8.99 0 0 0 3.69-1.81L18.76 20l1.27-1.27-9-9zm7.73 1L8.94 5.09l2.09 2.09z"/>
+  </g>
+  <g id="16-16-audio-volume-high" fill="currentColor" class="ColorScheme-Text" transform="translate(0 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M10 .256v2.086A6 6 0 0 1 14 8a6 6 0 0 1-4 5.646v2.084A8 8 0 0 0 16 8a8 8 0 0 0-6-7.744ZM8 1 4 5H0v6h4l4 4zm2 3.537v6.916A4 4 0 0 0 12 8a4 4 0 0 0-2-3.463Z"/>
+  </g>
+  <g id="16-16-audio-volume-medium" fill="currentColor" class="ColorScheme-Text" transform="translate(32 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M8 1 4 5H0v6h4l4 4zm2 3.537v6.916A4 4 0 0 0 12 8a4 4 0 0 0-2-3.463Z"/>
+  </g>
+  <g id="16-16-audio-volume-low" fill="currentColor" class="ColorScheme-Text" transform="translate(64 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M0 5v6h4l4 4V1L4 5z"/>
+  </g>
+  <g id="16-16-audio-volume-muted" fill="currentColor" class="ColorScheme-Text" transform="translate(96 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M1.414 0 0 1.414 3.586 5H0v6h4l4 4V9.414l3.463 3.463a6 6 0 0 1-1.463.77v2.083a8 8 0 0 0 2.887-1.43l1.699 1.7L16 14.586ZM10 .256v2.086A6 6 0 0 1 14 8a6 6 0 0 1-.39 2.074l1.501 1.502A8 8 0 0 0 16 8a8 8 0 0 0-6-7.744ZM8 1 6.268 2.732 8 4.465Zm2 3.537v1.928l1.957 1.957A4 4 0 0 0 12 8a4 4 0 0 0-2-3.463Z"/>
+  </g>
+</svg>

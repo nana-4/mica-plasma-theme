@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="140">
+  <defs>
+    <radialGradient id="slider-shadow" cx="16" cy="17" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset=".6" stop-opacity=".3"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight{color:#1a73e8}
+  </style>
+  <g id="hint-tile-center" fill="#4e9a06" transform="translate(112 88)">
+    <rect width="4" height="4"/>
+  </g>
+  <g id="hint-handle-size" transform="translate(168 8)">
+    <circle cx="16" cy="16" r="16"/>
+  </g>
+  <g id="horizontal-slider-handle" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 8)">
+    <circle cx="16" cy="16" r="16" fill="url(#slider-shadow)"/>
+    <circle cx="16" cy="16" r="8"/>
+  </g>
+  <g id="vertical-slider-handle" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 48)">
+    <circle cx="16" cy="16" r="16" fill="url(#slider-shadow)"/>
+    <circle cx="16" cy="16" r="8"/>
+  </g>
+  <g id="horizontal-slider-hover" fill="currentColor" class="ColorScheme-Highlight" transform="translate(48 8)">
+    <circle cx="16" cy="16" r="16" opacity=".08"/>
+  </g>
+  <g id="vertical-slider-hover" fill="currentColor" class="ColorScheme-Highlight" transform="translate(48 48)">
+    <circle cx="16" cy="16" r="16" opacity=".08"/>
+  </g>
+  <g id="horizontal-slider-focus" fill="none" stroke="currentColor" class="ColorScheme-Highlight" transform="translate(88 8)">
+    <circle cx="16" cy="16" r="15" stroke-width="2"/>
+  </g>
+  <g id="vertical-slider-focus" fill="none" stroke="currentColor" class="ColorScheme-Highlight" transform="translate(88 48)">
+    <circle cx="16" cy="16" r="15" stroke-width="2"/>
+  </g>
+  <g id="horizontal-slider-shadow" fill="currentColor" class="ColorScheme-Highlight" transform="translate(128 8)">
+    <circle cx="16" cy="16" r="16" fill="none"/>
+  </g>
+  <g id="vertical-slider-shadow" fill="currentColor" class="ColorScheme-Highlight" transform="translate(128 48)">
+    <circle cx="16" cy="16" r="16" fill="none"/>
+  </g>
+  <g id="groove-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 88)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M16 14a2 2 0 0 0-2 2h2z" opacity=".38"/>
+  </g>
+  <g id="groove-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(36 88)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M0 14v2h2a2 2 0 0 0-2-2z" opacity=".38"/>
+  </g>
+  <g id="groove-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 116)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M14 0a2 2 0 0 0 2 2V0z" opacity=".38"/>
+  </g>
+  <g id="groove-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(36 116)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M0 0v2a2 2 0 0 0 2-2z" opacity=".38"/>
+  </g>
+  <g id="groove-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(28 88)">
+    <rect width="4" height="16" fill="none"/>
+    <rect width="4" height="2" y="14" opacity=".38"/>
+  </g>
+  <g id="groove-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(28 116)">
+    <rect width="4" height="16" fill="none"/>
+    <rect width="4" height="2" opacity=".38"/>
+  </g>
+  <g id="groove-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(8 108)">
+    <rect width="16" height="4" fill="none"/>
+    <rect width="2" height="4" x="14" opacity=".38"/>
+  </g>
+  <g id="groove-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(36 108)">
+    <rect width="16" height="4" fill="none"/>
+    <rect width="2" height="4" opacity=".38"/>
+  </g>
+  <g id="groove-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(28 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4" opacity=".38"/>
+  </g>
+  <g id="groove-highlight-topleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(60 88)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M16 14a2 2 0 0 0-2 2h2z"/>
+  </g>
+  <g id="groove-highlight-topright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(88 88)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M0 14v2h2a2 2 0 0 0-2-2z"/>
+  </g>
+  <g id="groove-highlight-bottomleft" fill="currentColor" class="ColorScheme-Highlight" transform="translate(60 116)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M14 0a2 2 0 0 0 2 2V0z"/>
+  </g>
+  <g id="groove-highlight-bottomright" fill="currentColor" class="ColorScheme-Highlight" transform="translate(88 116)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M0 0v2a2 2 0 0 0 2-2z"/>
+  </g>
+  <g id="groove-highlight-top" fill="currentColor" class="ColorScheme-Highlight" transform="translate(80 88)">
+    <rect width="4" height="16" fill="none"/>
+    <rect width="4" height="2" y="14"/>
+  </g>
+  <g id="groove-highlight-bottom" fill="currentColor" class="ColorScheme-Highlight" transform="translate(80 116)">
+    <rect width="4" height="16" fill="none"/>
+    <rect width="4" height="2"/>
+  </g>
+  <g id="groove-highlight-left" fill="currentColor" class="ColorScheme-Highlight" transform="translate(60 108)">
+    <rect width="16" height="4" fill="none"/>
+    <rect width="2" height="4" x="14"/>
+  </g>
+  <g id="groove-highlight-right" fill="currentColor" class="ColorScheme-Highlight" transform="translate(88 108)">
+    <rect width="16" height="4" fill="none"/>
+    <rect width="2" height="4"/>
+  </g>
+  <g id="groove-highlight-center" fill="currentColor" class="ColorScheme-Highlight" transform="translate(80 108)">
+    <rect width="4" height="4" fill="none"/>
+    <rect width="4" height="4"/>
+  </g>
+</svg>

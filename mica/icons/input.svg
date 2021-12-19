@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="70">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text{color:#202124}
+  </style>
+  <g id="input-mouse-battery" fill="currentColor" class="ColorScheme-Text">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M16 4a8 9 0 0 0-8 9v6a8 9 0 0 0 8 9 8 9 0 0 0 8-9v-6a8 9 0 0 0-8-9zm0 1a7 8 0 0 1 7 8v6a7 8 0 0 1-7 8 7 8 0 0 1-7-8v-6a7 8 0 0 1 7-8zm0 3a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1V9a1 1 0 0 0-1-1zm0 8-2 5h2v3l2-5h-2z"/>
+  </g>
+  <g id="input-keyboard" fill="currentColor" class="ColorScheme-Text" transform="translate(32)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M26 7H6c-1.1 0-1.99.9-1.99 2L4 23c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V9c0-1.1-.9-2-2-2zm-11 5h2v2h-2zm0 3h2v2h-2zm-3-3h2v2h-2zm0 3h2v2h-2zm-1 2H9v-2h2zm0-3H9v-2h2zm9 7h-8v-2h8zm0-4h-2v-2h2zm0-3h-2v-2h2zm3 3h-2v-2h2zm0-3h-2v-2h2z"/>
+  </g>
+  <g id="input-keyboard-virtual-on" fill="currentColor" class="ColorScheme-Text" transform="translate(64)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3.02 11v17h26V11zm.999.999h24v2h-24zm0 3h24v12h-24zm.999 2v2h.999v-2zm2 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm-20 3v2h3v-2zm4 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h3v-2zm-19 3v2h2v-2zm3 0v2h2v-2zm3 0v2h9.99v-2zm11 0v2h2v-2zm3 0v2h2v-2z"/>
+    <path fill="#11d116" d="M5.5 4A2.5 2.5 0 0 0 3 6.5 2.5 2.5 0 0 0 5.5 9 2.5 2.5 0 0 0 8 6.5 2.5 2.5 0 0 0 5.5 4z"/>
+  </g>
+  <g id="input-keyboard-virtual-off" fill="currentColor" class="ColorScheme-Text" transform="translate(96)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M3.02 11v17h26V11zm.999.999h24v2h-24zm0 3h24v12h-24zm.999 2v2h.999v-2zm2 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm-20 3v2h3v-2zm4 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm3 0v2h3v-2zm-19 3v2h2v-2zm3 0v2h2v-2zm3 0v2h9.99v-2zm11 0v2h2v-2zm3 0v2h2v-2z"/>
+  </g>
+  <g id="input-keyboard-brightness" fill="currentColor" class="ColorScheme-Text" transform="translate(128)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M6 4v20l10 4 10-4V14h-1v7H7V5h12V4zm9.41 4L11 18h1.3l1.32-3h4.72l1.35 3h1.3l-4.5-10H15.4zm.553 1.7 1.94 4.3h-3.83l1.9-4.3zM7.003 22h18v1h-18z"/>
+    <path d="M24 3c-.277 0-.5.223-.5.5v1a.499.499 0 1 0 1 0v-1c0-.277-.223-.5-.5-.5zm-3.18 1.32a.5.5 0 0 0-.354.853l.707.707c.196.196.511.196.707 0s.196-.511 0-.707l-.707-.707a.498.498 0 0 0-.354-.146zm6.36 0a.5.5 0 0 0-.354.146l-.707.707c-.196.196-.196.511 0 .707s.511.196.707 0l.707-.707a.499.499 0 0 0-.354-.853zM24 6a2 2 0 1 0-.001 4.001A2 2 0 0 0 24 6zm0 1v2a1 1 0 0 1 0-2zm-4.5.5a.499.499 0 1 0 0 1h1a.499.499 0 1 0 0-1zm8 0a.499.499 0 1 0 0 1h1a.499.499 0 1 0 0-1zm-5.97 2.47a.5.5 0 0 0-.354.146l-.707.707c-.196.196-.196.511 0 .707s.511.196.707 0l.707-.707a.499.499 0 0 0-.354-.853zm4.95 0a.5.5 0 0 0-.354.853l.707.707c.196.196.511.196.707 0s.196-.511 0-.707l-.707-.707a.498.498 0 0 0-.354-.146zM24.01 11c-.277 0-.5.223-.5.5v1a.499.499 0 1 0 1 0v-1c0-.277-.223-.5-.5-.5z"/>
+  </g>
+  <g id="input-keyboard-battery" fill="currentColor" class="ColorScheme-Text" transform="translate(160)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M6 4v20l10 4 10-4V13h-1v8H7V5h14V4zm18 0-2 5h2v3l2-5h-2zm-8.59 4L11 18h1.3l1.32-3h4.72l1.35 3h1.3l-4.5-10H15.4zm.553 1.7 1.94 4.3h-3.83l1.9-4.3zM7.003 22h18v1h-18z"/>
+  </g>
+  <g id="input-caps-on" fill="currentColor" class="ColorScheme-Text" transform="translate(192)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M6 4v20l10 4 10-4V4h-1zm1 1h18v16H7zm8.41 3L11 18h1.3l1.32-3h4.72l1.35 3h1.3l-4.5-10zm.553 1.7 1.94 4.3h-3.83zM7.003 22h18v1h-18z"/>
+  </g>
+  <g id="input-num-on" fill="currentColor" class="ColorScheme-Text" transform="translate(224)">
+    <rect width="32" height="32" fill="none"/>
+    <path d="M6 4v20l10 4 10-4V4h-1zm1 1h18v16H7zm9 3v2h-2v1h2v6h-2v1h5v-1h-2V8zM7 22h18v1H7z"/>
+  </g>
+  <g id="22-22-input-mouse-battery" fill="currentColor" class="ColorScheme-Text" transform="translate(0 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M13.5 3C10.45 3 8 5.68 8 9v4c0 3.32 2.45 6 5.5 6s5.5-2.68 5.5-6V9c0-3.32-2.45-6-5.5-6zm0 1C15.99 4 18 6.01 18 8.5v5c0 2.49-2.01 4.5-4.5 4.5S9 15.99 9 13.5v-5C9 6.01 11.01 4 13.5 4zm0 2c-.277 0-.5.223-.5.5v2a.499.499 0 1 0 1 0v-2c0-.277-.223-.5-.5-.5zM5 3 3 8h2v3l2-5H5z"/>
+  </g>
+  <g id="22-22-input-keyboard" fill="currentColor" class="ColorScheme-Text" transform="translate(32 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M19 4H3c-1.1 0-1.99.9-1.99 2L1 16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-9 3h2v2h-2zm0 3h2v2h-2zM7 7h2v2H7zm0 3h2v2H7zm-1 2H4v-2h2zm0-3H4V7h2zm9 7H7v-2h8zm0-4h-2v-2h2zm0-3h-2V7h2zm3 3h-2v-2h2zm0-3h-2V7h2z"/>
+  </g>
+  <g id="22-22-input-keyboard-virtual-on" fill="currentColor" class="ColorScheme-Text" transform="translate(64 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M2 8v11h18V8zm1 1h16v1H3zm0 2h16v7H3zm1 1v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zM4 14v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zM4 16v1h2v-1zm3 0v1h8v-1zm9 0v1h2v-1z"/>
+    <path fill="#11d116" d="M4.5 2A2.5 2.5 0 0 0 2 4.5 2.5 2.5 0 0 0 4.5 7 2.5 2.5 0 0 0 7 4.5 2.5 2.5 0 0 0 4.5 2Z"/>
+  </g>
+  <g id="22-22-input-keyboard-virtual-off" fill="currentColor" class="ColorScheme-Text" transform="translate(96 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M2 8v11h18V8zm1 1h16v1H3zm0 2h16v7H3zm1 1v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zM4 14v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zM4 16v1h2v-1zm3 0v1h8v-1zm9 0v1h2v-1z"/>
+  </g>
+  <g id="22-22-input-keyboard-brightness" fill="currentColor" class="ColorScheme-Text" transform="translate(128 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M4 3v14l7 2 7-2V8h-1v6H5V4h8V3zm12 0a2 2 0 1 0-.001 4.001A2 2 0 0 0 16 3zm0 1v2a1 1 0 0 1 0-2zm-5.56 2L8 12h1.07l.406-1h3.04l.406 1h1.07l-2.44-6h-.537l-.023.01-.024-.01h-.539zm.562 1.26 1.11 2.74h-2.23l1.11-2.74zm-6 7.74h12v1h-12z"/>
+  </g>
+  <g id="22-22-input-keyboard-battery" fill="currentColor" class="ColorScheme-Text" transform="translate(160 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M4 3v14l7 2 7-2v-5h-1v2H5V4h8V3zm12 0-2 5h2v3l2-5h-2zm-5.56 3L8 12h1.07l.406-1h3.04l.406 1h1.07l-2.44-6h-.537l-.023.01-.024-.01h-.539zm.562 1.26 1.11 2.74h-2.23l1.11-2.74zm-6 7.74h12v1h-12z"/>
+  </g>
+  <g id="22-22-input-caps-on" fill="currentColor" class="ColorScheme-Text" transform="translate(192 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M4 2c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm7 3.59 5 5L14.59 12 11 8.41 7.41 12 6 10.59zM6 14h10v2H6z"/>
+  </g>
+  <g id="22-22-input-num-on" fill="currentColor" class="ColorScheme-Text" transform="translate(224 32)">
+    <rect width="22" height="22" fill="none"/>
+    <path d="M18 2H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-5 14h-2V8H9V6h4z"/>
+  </g>
+  <g id="16-16-input-mouse-battery" fill="currentColor" class="ColorScheme-Text" transform="translate(0 54)">
+    <rect width="16" height="16" fill="none"/>
+    <path d="M8 2a4 4 0 0 0-4 4v4a4 4 0 0 0 4 4 4 4 0 0 0 4-4V6a4 4 0 0 0-4-4zm0 1a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3 3 3 0 0 1-3-3V6a3 3 0 0 1 3-3zm0 1L6 9h2v3l2-5H8z"/>
+  </g>
+</svg>

@@ -4,8 +4,16 @@ Mica is a Plasma theme inspired by [Material Design 3](https://m3.material.io).
 
 Currently this project is a WIP and some icons and widgets are not yet properly themed.
 
-Notice: With this theme the panel height should be **40px or higher**, otherwise
-tab widgets in the panel will look broken.
+## Notice
+
+This theme requires the panel height to be **40px or higher**, otherwise
+tab-like widgets in the panel will look broken.
+
+The recommended panel height is 40px.
+
+## Supported Plasma Version
+
+5.23.0 or later
 
 ## Installation
 

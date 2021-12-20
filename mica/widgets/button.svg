@@ -4,12 +4,14 @@
     .ColorScheme-Text{color:#202124}
     .ColorScheme-Highlight{color:#1a73e8}
   </style>
+<!--
   <g id="normal-hint-compose-over-border" fill="#0f0" transform="translate(88 88)">
     <rect width="4" height="4"/>
   </g>
   <g id="pressed-hint-compose-over-border" fill="#0f0" transform="translate(168 88)">
     <rect width="4" height="4"/>
   </g>
+-->
   <g id="mask-normal-topleft" transform="translate(8 8)">
     <path d="M8 0a8 8 0 0 0-8 8h8z"/>
   </g>

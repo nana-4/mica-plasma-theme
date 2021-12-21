@@ -2,6 +2,8 @@
 
 Mica is a Plasma theme inspired by [Material Design 3](https://m3.material.io).
 
+![preview](./preview.png)
+
 Currently this project is a WIP and some icons and widgets are not yet properly themed.
 
 ## Notice
@@ -30,9 +32,3 @@ Or simply:
 ```sh
 cp -r mica ~/.local/share/plasma/desktoptheme
 ```
-
-## Preview
-
-![preview](./preview.png)
-
-<sub>[Wallpaper link](https://wallup.net/digital-art-simple-background/) | Font: [M PLUS 1](https://github.com/coz-m/MPLUS_FONTS), 9.75pt</sub>

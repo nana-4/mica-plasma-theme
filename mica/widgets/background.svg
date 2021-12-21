@@ -22,38 +22,47 @@
   </g>
   <g id="topleft" fill="currentColor" class="ColorScheme-Background" transform="translate(8 8)">
     <path d="M0 0v16h8a8 8 0 0 1 8-8V0z" fill="url(#def-shadow-topleft)"/>
-    <path d="M16 8a8 8 0 0 0-8 8h8z" opacity=".8"/>
+    <path d="M16 8a8 8 0 0 0-8 8h8z" opacity=".9"/>
+    <path d="M16 8a8 8 0 0 0-8 8h8z" fill="#fff" opacity=".05"/>
   </g>
   <g id="top" fill="currentColor" class="ColorScheme-Background" transform="translate(28 8)">
     <rect width="16" height="8" fill="url(#def-shadow-top)"/>
-    <rect width="16" height="8" y="8" opacity=".8"/>
+    <rect width="16" height="8" y="8" opacity=".9"/>
+    <rect width="16" height="8" y="8" fill="#fff" opacity=".05"/>
   </g>
   <g id="topright" fill="currentColor" class="ColorScheme-Background" transform="translate(48 8)">
     <path d="M0 0v8a8 8 0 0 1 8 8h8V0z" fill="url(#def-shadow-topright)"/>
-    <path d="M0 8v8h8a8 8 0 0 0-8-8z" opacity=".8"/>
+    <path d="M0 8v8h8a8 8 0 0 0-8-8z" opacity=".9"/>
+    <path d="M0 8v8h8a8 8 0 0 0-8-8z" fill="#fff" opacity=".05"/>
   </g>
   <g id="left" fill="currentColor" class="ColorScheme-Background" transform="translate(8 28)">
     <rect width="8" height="16" fill="url(#def-shadow-left)"/>
-    <rect width="8" height="16" x="8" opacity=".8"/>
+    <rect width="8" height="16" x="8" opacity=".9"/>
+    <rect width="8" height="16" x="8" fill="#fff" opacity=".05"/>
   </g>
   <g id="center" fill="currentColor" class="ColorScheme-Background" transform="translate(28 28)">
-    <rect width="16" height="16" opacity=".8"/>
+    <rect width="16" height="16" opacity=".9"/>
+    <rect width="16" height="16" fill="#fff" opacity=".05"/>
   </g>
   <g id="right" fill="currentColor" class="ColorScheme-Background" transform="translate(48 28)">
     <rect width="8" height="16" x="8" fill="url(#def-shadow-right)"/>
-    <rect width="8" height="16" opacity=".8"/>
+    <rect width="8" height="16" opacity=".9"/>
+    <rect width="8" height="16" fill="#fff" opacity=".05"/>
   </g>
   <g id="bottomleft" fill="currentColor" class="ColorScheme-Background" transform="translate(8 48)">
     <path d="M0 0v16h16V8a8 8 0 0 1-8-8z" fill="url(#def-shadow-bottomleft)"/>
-    <path d="M8 0a8 8 0 0 0 8 8V0z" opacity=".8"/>
+    <path d="M8 0a8 8 0 0 0 8 8V0z" opacity=".9"/>
+    <path d="M8 0a8 8 0 0 0 8 8V0z" fill="#fff" opacity=".05"/>
   </g>
   <g id="bottom" fill="currentColor" class="ColorScheme-Background" transform="translate(28 48)">
     <rect width="16" height="8" y="8" fill="url(#def-shadow-bottom)"/>
-    <rect width="16" height="8" opacity=".8"/>
+    <rect width="16" height="8" opacity=".9"/>
+    <rect width="16" height="8" fill="#fff" opacity=".05"/>
   </g>
   <g id="bottomright" fill="currentColor" class="ColorScheme-Background" transform="translate(48 48)">
     <path d="M8 0a8 8 0 0 1-8 8v8h16V0z" fill="url(#def-shadow-bottomright)"/>
-    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".8"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".9"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="#fff" opacity=".05"/>
   </g>
   <g id="hint-top-margin" fill="#0f0" transform="translate(33 8)">
     <rect width="2" height="14"/>

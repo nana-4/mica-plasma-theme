@@ -14,6 +14,7 @@
   <g id="ClockFace" fill="currentColor" class="ColorScheme-Text">
     <rect width="216" height="216" fill="url(#shadow)"/>
     <circle cx="108" cy="108" r="100" fill="currentColor" class="ColorScheme-Background"/>
+    <circle cx="108" cy="108" r="100" fill="#fff" opacity=".05"/>
     <rect x="107" y="16" width="2" height="12" rx="1" opacity=".38"/>
     <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(6 108 108)"/>
     <rect x="108" y="16" width="1" height="8" rx=".5" opacity=".12" transform="rotate(12 108 108)"/>

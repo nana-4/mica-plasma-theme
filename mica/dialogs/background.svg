@@ -22,31 +22,40 @@
     <rect width="4" height="4"/>
   </g>
   <g id="topleft" fill="currentColor" class="ColorScheme-Background" transform="translate(8 8)">
-    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".8"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" opacity=".9"/>
+    <path d="M8 0a8 8 0 0 0-8 8h8z" fill="#fff" opacity=".12"/>
   </g>
   <g id="top" fill="currentColor" class="ColorScheme-Background" transform="translate(20 8)">
-    <rect width="8" height="8" opacity=".8"/>
+    <rect width="8" height="8" opacity=".9"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
   </g>
   <g id="topright" fill="currentColor" class="ColorScheme-Background" transform="translate(32 8)">
-    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".8"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" opacity=".9"/>
+    <path d="M0 0v8h8a8 8 0 0 0-8-8z" fill="#fff" opacity=".12"/>
   </g>
   <g id="left" fill="currentColor" class="ColorScheme-Background" transform="translate(8 20)">
-    <rect width="8" height="8" opacity=".8"/>
+    <rect width="8" height="8" opacity=".9"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
   </g>
   <g id="center" fill="currentColor" class="ColorScheme-Background" transform="translate(20 20)">
-    <rect width="8" height="8" opacity=".8"/>
+    <rect width="8" height="8" opacity=".9"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
   </g>
   <g id="right" fill="currentColor" class="ColorScheme-Background" transform="translate(32 20)">
-    <rect width="8" height="8" opacity=".8"/>
+    <rect width="8" height="8" opacity=".9"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
   </g>
   <g id="bottomleft" fill="currentColor" class="ColorScheme-Background" transform="translate(8 32)">
-    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".8"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" opacity=".9"/>
+    <path d="M0 0a8 8 0 0 0 8 8V0z" fill="#fff" opacity=".12"/>
   </g>
   <g id="bottom" fill="currentColor" class="ColorScheme-Background" transform="translate(20 32)">
-    <rect width="8" height="8" opacity=".8"/>
+    <rect width="8" height="8" opacity=".9"/>
+    <rect width="8" height="8" fill="#fff" opacity=".12"/>
   </g>
   <g id="bottomright" fill="currentColor" class="ColorScheme-Background" transform="translate(32 32)">
-    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".8"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" opacity=".9"/>
+    <path d="M0 0v8a8 8 0 0 0 8-8z" fill="#fff" opacity=".12"/>
   </g>
   <g id="hint-top-margin" fill="#f0f" transform="translate(23 8)">
     <rect width="2" height="6"/>

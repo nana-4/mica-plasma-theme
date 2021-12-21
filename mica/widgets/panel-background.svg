@@ -8,9 +8,8 @@
     </linearGradient>
     <linearGradient xlink:href="Gradient" id="def-shadow-top" x2="0" y1="36" y2="16" gradientUnits="userSpaceOnUse"/>
     <linearGradient xlink:href="Gradient" id="def-shadow-left" x1="32" x2="12" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="Gradient" id="def-shadow-right" x1="-8" x2="12" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="Gradient" id="def-shadow-right-alt" x1="0" x2="20" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="Gradient" id="def-shadow-bottom" x2="0" y1="-4" y2="16" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-right" x1="0" x2="20" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="Gradient" id="def-shadow-bottom" x2="0" y1="8" y2="28" gradientUnits="userSpaceOnUse"/>
     <radialGradient xlink:href="Gradient" id="def-shadow-topleft" cx="32" cy="36" r="20" gradientUnits="userSpaceOnUse"/>
     <radialGradient xlink:href="Gradient" id="def-shadow-topright" cx="0" cy="36" r="20" gradientUnits="userSpaceOnUse"/>
     <radialGradient xlink:href="Gradient" id="def-shadow-bottomleft" cx="32" cy="8" r="20" gradientUnits="userSpaceOnUse"/>
@@ -104,29 +103,33 @@
     <path d="M0 0v36h24v-4a8 8 0 0 1 8-8V0z" fill="url(#def-shadow-topleft)"/>
   </g>
   <g id="shadow-top" transform="translate(124 8)">
+    <rect width="24" height="36" fill="none"/>
     <rect width="24" height="24" fill="url(#def-shadow-top)"/>
   </g>
   <g id="shadow-topright" transform="translate(152 8)">
     <path d="M0 0v24a8 8 0 0 1 8 8v4h24V0Z" fill="url(#def-shadow-topright)"/>
   </g>
   <g id="shadow-left" transform="translate(88 48)">
+    <rect width="32" height="24" fill="none"/>
     <rect width="24" height="24" fill="url(#def-shadow-left)"/>
   </g>
   <g id="shadow-center" transform="translate(124 48)">
     <rect width="24" height="24" fill="none"/>
   </g>
-  <g id="shadow-right" transform="translate(160 48)">
-    <rect width="24" height="24" fill="url(#def-shadow-right)"/>
+  <g id="shadow-right" transform="translate(152 48)">
+    <rect width="32" height="24" fill="none"/>
+    <rect width="24" height="24" x="8" fill="url(#def-shadow-right)"/>
   </g>
   <g id="shadow-bottomleft" transform="translate(88 76)">
     <path d="M0 0v8h25.11A8 8 0 0 1 24 4V0Z" fill="url(#def-shadow-left)"/>
     <path d="M0 8v28h32V12a8 8 0 0 1-6.89-4z" fill="url(#def-shadow-bottomleft)"/>
   </g>
-  <g id="shadow-bottom" transform="translate(124 88)">
-    <rect width="24" height="24" fill="url(#def-shadow-bottom)"/>
+  <g id="shadow-bottom" transform="translate(124 76)">
+    <rect width="24" height="36" fill="none"/>
+    <rect width="24" height="24" y="12" fill="url(#def-shadow-bottom)"/>
   </g>
   <g id="shadow-bottomright" transform="translate(152 76)">
-    <path d="M8 0v4a8 8 0 0 1-1.11 4H32V0Z" fill="url(#def-shadow-right-alt)"/>
+    <path d="M8 0v4a8 8 0 0 1-1.11 4H32V0Z" fill="url(#def-shadow-right)"/>
     <path d="M6.89 8A8 8 0 0 1 0 12v24h32V8Z" fill="url(#def-shadow-bottomright)"/>
   </g>
   <g id="shadow-hint-top-margin" fill="#f0f" transform="translate(133 8)">
